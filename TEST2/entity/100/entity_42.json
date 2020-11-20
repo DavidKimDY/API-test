@@ -1,0 +1,458 @@
+{
+	"entities": [
+		{
+			"name": "진왕",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.064770676,
+			"mentions": [
+				{
+					"text": {
+						"content": "진왕",
+						"beginOffset": 38
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "진주란",
+			"type": "OTHER",
+			"metadata": {
+				"mid": "/m/05_8m",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Pearl"
+			},
+			"salience": 0.05607208,
+			"mentions": [
+				{
+					"text": {
+						"content": "진주란",
+						"beginOffset": 162
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "진왕그룹",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.052592054,
+			"mentions": [
+				{
+					"text": {
+						"content": "진왕그룹",
+						"beginOffset": 111
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "진왕그룹",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.048858076,
+			"mentions": [
+				{
+					"text": {
+						"content": "진왕그룹",
+						"beginOffset": 135
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "태성",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.048710354,
+			"mentions": [
+				{
+					"text": {
+						"content": "태성",
+						"beginOffset": 309
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "태성",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.046169437,
+			"mentions": [
+				{
+					"text": {
+						"content": "태성",
+						"beginOffset": 458
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "정연",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.042501148,
+			"mentions": [
+				{
+					"text": {
+						"content": "정연",
+						"beginOffset": 180
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "가슴",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.036288444,
+			"mentions": [
+				{
+					"text": {
+						"content": "가슴",
+						"beginOffset": 69
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "고독",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.036288444,
+			"mentions": [
+				{
+					"text": {
+						"content": "고독",
+						"beginOffset": 86
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.036288444,
+			"mentions": [
+				{
+					"text": {
+						"content": "남자",
+						"beginOffset": 103
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "것",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03367828,
+			"mentions": [
+				{
+					"text": {
+						"content": "것",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어머니",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03198108,
+			"mentions": [
+				{
+					"text": {
+						"content": "어머니",
+						"beginOffset": 373
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어머니",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.029389426,
+			"mentions": [
+				{
+					"text": {
+						"content": "어머니",
+						"beginOffset": 394
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "황태자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.02935505,
+			"mentions": [
+				{
+					"text": {
+						"content": "황태자",
+						"beginOffset": 48
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "겉",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.02935505,
+			"mentions": [
+				{
+					"text": {
+						"content": "겉",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "외모",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.028628673,
+			"mentions": [
+				{
+					"text": {
+						"content": "외모",
+						"beginOffset": 208
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "능력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.028628673,
+			"mentions": [
+				{
+					"text": {
+						"content": "능력",
+						"beginOffset": 229
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어머니",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.02841023,
+			"mentions": [
+				{
+					"text": {
+						"content": "어머니",
+						"beginOffset": 476
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "후계자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.026846793,
+			"mentions": [
+				{
+					"text": {
+						"content": "후계자",
+						"beginOffset": 124
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "여자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.02526577,
+			"mentions": [
+				{
+					"text": {
+						"content": "여자",
+						"beginOffset": 354
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "권력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.024833163,
+			"mentions": [
+				{
+					"text": {
+						"content": "권력",
+						"beginOffset": 244
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "부",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.024833163,
+			"mentions": [
+				{
+					"text": {
+						"content": "부",
+						"beginOffset": 237
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "모두",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.024833163,
+			"mentions": [
+				{
+					"text": {
+						"content": "모두",
+						"beginOffset": 251
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "꽃",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.02460179,
+			"mentions": [
+				{
+					"text": {
+						"content": "꽃",
+						"beginOffset": 268
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "대표이사",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.02454942,
+			"mentions": [
+				{
+					"text": {
+						"content": "대표이사",
+						"beginOffset": 148
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "약점",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.024460014,
+			"mentions": [
+				{
+					"text": {
+						"content": "약점",
+						"beginOffset": 325
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.024285847,
+			"mentions": [
+				{
+					"text": {
+						"content": "아들",
+						"beginOffset": 172
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남편",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.024083026,
+			"mentions": [
+				{
+					"text": {
+						"content": "남편",
+						"beginOffset": 190
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "기업가",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.023022356,
+			"mentions": [
+				{
+					"text": {
+						"content": "기업가",
+						"beginOffset": 420
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "능력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.020419879,
+			"mentions": [
+				{
+					"text": {
+						"content": "능력",
+						"beginOffset": 216
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

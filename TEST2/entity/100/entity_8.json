@@ -1,0 +1,343 @@
+{
+	"entities": [
+		{
+			"name": "부산",
+			"type": "LOCATION",
+			"metadata": {
+				"mid": "/m/0hv7l",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Busan"
+			},
+			"salience": 0.065299116,
+			"mentions": [
+				{
+					"text": {
+						"content": "부산",
+						"beginOffset": 17
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "두준",
+			"type": "PERSON",
+			"metadata": {
+				"mid": "/m/0gffqbq",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Yoon_Doo-joon"
+			},
+			"salience": 0.06177691,
+			"mentions": [
+				{
+					"text": {
+						"content": "두준",
+						"beginOffset": 31
+					},
+					"type": "PROPER"
+				},
+				{
+					"text": {
+						"content": "두준",
+						"beginOffset": 162
+					},
+					"type": "PROPER"
+				},
+				{
+					"text": {
+						"content": "두준",
+						"beginOffset": 271
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "은희네",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.058122516,
+			"mentions": [
+				{
+					"text": {
+						"content": "은희네",
+						"beginOffset": 199
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "서울",
+			"type": "LOCATION",
+			"metadata": {
+				"mid": "/m/0hsqf",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Seoul"
+			},
+			"salience": 0.051158123,
+			"mentions": [
+				{
+					"text": {
+						"content": "서울",
+						"beginOffset": 371
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "애교",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.048195656,
+			"mentions": [
+				{
+					"text": {
+						"content": "애교",
+						"beginOffset": 361
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "친화력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.044245638,
+			"mentions": [
+				{
+					"text": {
+						"content": "친화력",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "펜팔",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04066718,
+			"mentions": [
+				{
+					"text": {
+						"content": "펜팔",
+						"beginOffset": 58
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남자친구",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.040094532,
+			"mentions": [
+				{
+					"text": {
+						"content": "남자친구",
+						"beginOffset": 99
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "내용",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03995154,
+			"mentions": [
+				{
+					"text": {
+						"content": "내용",
+						"beginOffset": 135
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "친화력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03903629,
+			"mentions": [
+				{
+					"text": {
+						"content": "친화력",
+						"beginOffset": 335
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "소녀",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03870348,
+			"mentions": [
+				{
+					"text": {
+						"content": "소녀",
+						"beginOffset": 23
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "펜팔",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.037358075,
+			"mentions": [
+				{
+					"text": {
+						"content": "펜팔",
+						"beginOffset": 128
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "집",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.036891688,
+			"mentions": [
+				{
+					"text": {
+						"content": "집",
+						"beginOffset": 209
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "친구",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03668257,
+			"mentions": [
+				{
+					"text": {
+						"content": "친구",
+						"beginOffset": 440
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "상대",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03546986,
+			"mentions": [
+				{
+					"text": {
+						"content": "상대",
+						"beginOffset": 65
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "고등학교",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.034954138,
+			"mentions": [
+				{
+					"text": {
+						"content": "고등학교",
+						"beginOffset": 73
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "관심",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.033051834,
+			"mentions": [
+				{
+					"text": {
+						"content": "관심",
+						"beginOffset": 250
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "살인",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.032186236,
+			"mentions": [
+				{
+					"text": {
+						"content": "살인",
+						"beginOffset": 348
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "동네 사람들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.031019468,
+			"mentions": [
+				{
+					"text": {
+						"content": "동네 사람들",
+						"beginOffset": 413
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "복무",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.028430609,
+			"mentions": [
+				{
+					"text": {
+						"content": "복무",
+						"beginOffset": 44
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "군",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.028430609,
+			"mentions": [
+				{
+					"text": {
+						"content": "군",
+						"beginOffset": 41
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

@@ -1,0 +1,429 @@
+{
+	"entities": [
+		{
+			"name": "고구려",
+			"type": "LOCATION",
+			"metadata": {
+				"mid": "/m/017c2_",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Goguryeo"
+			},
+			"salience": 0.05994566,
+			"mentions": [
+				{
+					"text": {
+						"content": "고구려",
+						"beginOffset": 31
+					},
+					"type": "PROPER"
+				},
+				{
+					"text": {
+						"content": "고구려",
+						"beginOffset": 214
+					},
+					"type": "PROPER"
+				},
+				{
+					"text": {
+						"content": "고구려",
+						"beginOffset": 495
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "국상 개연수",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05227544,
+			"mentions": [
+				{
+					"text": {
+						"content": "국상 개연수",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "중원",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051798556,
+			"mentions": [
+				{
+					"text": {
+						"content": "중원",
+						"beginOffset": 160
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "후연",
+			"type": "PERSON",
+			"metadata": {
+				"mid": "/m/03255t",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Later_Yan"
+			},
+			"salience": 0.04969158,
+			"mentions": [
+				{
+					"text": {
+						"content": "후연",
+						"beginOffset": 194
+					},
+					"type": "PROPER"
+				},
+				{
+					"text": {
+						"content": "후연",
+						"beginOffset": 255
+					},
+					"type": "PROPER"
+				},
+				{
+					"text": {
+						"content": "후연",
+						"beginOffset": 311
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.041714914,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 109
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "안목",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03814406,
+			"mentions": [
+				{
+					"text": {
+						"content": "안목",
+						"beginOffset": 78
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "개연수",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03814406,
+			"mentions": [
+				{
+					"text": {
+						"content": "개연수",
+						"beginOffset": 119
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "안",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.035542525,
+			"mentions": [
+				{
+					"text": {
+						"content": "안",
+						"beginOffset": 41
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.034155536,
+			"mentions": [
+				{
+					"text": {
+						"content": "아들",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03277606,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 338
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "고구려인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.032345265,
+			"mentions": [
+				{
+					"text": {
+						"content": "고구려인",
+						"beginOffset": 282
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "세상",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.027904794,
+			"mentions": [
+				{
+					"text": {
+						"content": "세상",
+						"beginOffset": 61
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "중산",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.027461044,
+			"mentions": [
+				{
+					"text": {
+						"content": "중산",
+						"beginOffset": 269
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "뜻",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.026326992,
+			"mentions": [
+				{
+					"text": {
+						"content": "뜻",
+						"beginOffset": 132
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "안목",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.025616225,
+			"mentions": [
+				{
+					"text": {
+						"content": "안목",
+						"beginOffset": 446
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "능력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.024368744,
+			"mentions": [
+				{
+					"text": {
+						"content": "능력",
+						"beginOffset": 482
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "장수",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.024143564,
+			"mentions": [
+				{
+					"text": {
+						"content": "장수",
+						"beginOffset": 375
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수도",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.023836026,
+			"mentions": [
+				{
+					"text": {
+						"content": "수도",
+						"beginOffset": 262
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "지경",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.023836026,
+			"mentions": [
+				{
+					"text": {
+						"content": "지경",
+						"beginOffset": 237
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사명감",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.023698311,
+			"mentions": [
+				{
+					"text": {
+						"content": "사명감",
+						"beginOffset": 543
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "정보",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.023614889,
+			"mentions": [
+				{
+					"text": {
+						"content": "정보",
+						"beginOffset": 321
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "세상",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.022915533,
+			"mentions": [
+				{
+					"text": {
+						"content": "세상",
+						"beginOffset": 429
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "일",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.017287996,
+			"mentions": [
+				{
+					"text": {
+						"content": "일",
+						"beginOffset": 519
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "감각",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.015669515,
+			"mentions": [
+				{
+					"text": {
+						"content": "감각",
+						"beginOffset": 456
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "군세",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.012912933,
+			"mentions": [
+				{
+					"text": {
+						"content": "군세",
+						"beginOffset": 204
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "변방",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.012832231,
+			"mentions": [
+				{
+					"text": {
+						"content": "변방",
+						"beginOffset": 388
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}
