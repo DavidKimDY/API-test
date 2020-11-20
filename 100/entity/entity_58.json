@@ -1,0 +1,140 @@
+{
+	"entities": [
+		{
+			"name": "상진",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.17427868,
+			"mentions": [
+				{
+					"text": {
+						"content": "상진",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "동생",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.124442674,
+			"mentions": [
+				{
+					"text": {
+						"content": "동생",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "집안",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11543388,
+			"mentions": [
+				{
+					"text": {
+						"content": "집안",
+						"beginOffset": 39
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "집안",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11308388,
+			"mentions": [
+				{
+					"text": {
+						"content": "집안",
+						"beginOffset": 230
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "도움",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09874626,
+			"mentions": [
+				{
+					"text": {
+						"content": "도움",
+						"beginOffset": 116
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "형수",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.095515795,
+			"mentions": [
+				{
+					"text": {
+						"content": "형수",
+						"beginOffset": 106
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "능력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.095515795,
+			"mentions": [
+				{
+					"text": {
+						"content": "능력",
+						"beginOffset": 89
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "나영",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09265391,
+			"mentions": [
+				{
+					"text": {
+						"content": "나영",
+						"beginOffset": 273
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "재혼",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09032913,
+			"mentions": [
+				{
+					"text": {
+						"content": "재혼",
+						"beginOffset": 286
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

@@ -1,0 +1,200 @@
+{
+	"entities": [
+		{
+			"name": "장봉실",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.1266627,
+			"mentions": [
+				{
+					"text": {
+						"content": "장봉실",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "재단사",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.096793205,
+			"mentions": [
+				{
+					"text": {
+						"content": "재단사",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "봉실",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08975141,
+			"mentions": [
+				{
+					"text": {
+						"content": "봉실",
+						"beginOffset": 44
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "봉실",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.08711689,
+			"mentions": [
+				{
+					"text": {
+						"content": "봉실",
+						"beginOffset": 217
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "봉실",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.0810284,
+			"mentions": [
+				{
+					"text": {
+						"content": "봉실",
+						"beginOffset": 250
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "철학",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07447983,
+			"mentions": [
+				{
+					"text": {
+						"content": "철학",
+						"beginOffset": 189
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "재단사",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.07035153,
+			"mentions": [
+				{
+					"text": {
+						"content": "재단사",
+						"beginOffset": 260
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "몸값",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.069006704,
+			"mentions": [
+				{
+					"text": {
+						"content": "몸값",
+						"beginOffset": 149
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "돈",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.069006704,
+			"mentions": [
+				{
+					"text": {
+						"content": "돈",
+						"beginOffset": 128
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "프로",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06841679,
+			"mentions": [
+				{
+					"text": {
+						"content": "프로",
+						"beginOffset": 118
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "장인 정신",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.061416972,
+			"mentions": [
+				{
+					"text": {
+						"content": "장인 정신",
+						"beginOffset": 24
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "재단사",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.056375563,
+			"mentions": [
+				{
+					"text": {
+						"content": "재단사",
+						"beginOffset": 98
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.04959329,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 167
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

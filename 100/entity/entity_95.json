@@ -1,0 +1,95 @@
+{
+	"entities": [
+		{
+			"name": "서찬휘",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.22406945,
+			"mentions": [
+				{
+					"text": {
+						"content": "서찬휘",
+						"beginOffset": 21
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "서찬휘",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.21832414,
+			"mentions": [
+				{
+					"text": {
+						"content": "서찬휘",
+						"beginOffset": 53
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "내금위",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.14567113,
+			"mentions": [
+				{
+					"text": {
+						"content": "내금위",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "종사관",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.14567113,
+			"mentions": [
+				{
+					"text": {
+						"content": "종사관",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사이",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.13462971,
+			"mentions": [
+				{
+					"text": {
+						"content": "사이",
+						"beginOffset": 66
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "직속상관",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.13163443,
+			"mentions": [
+				{
+					"text": {
+						"content": "직속상관",
+						"beginOffset": 34
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

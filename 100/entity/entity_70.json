@@ -1,0 +1,305 @@
+{
+	"entities": [
+		{
+			"name": "대철",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.1003606,
+			"mentions": [
+				{
+					"text": {
+						"content": "대철",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "대철",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09419621,
+			"mentions": [
+				{
+					"text": {
+						"content": "대철",
+						"beginOffset": 69
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "일삼다가",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07288966,
+			"mentions": [
+				{
+					"text": {
+						"content": "일삼다가",
+						"beginOffset": 142
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "똘마니",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051996265,
+			"mentions": [
+				{
+					"text": {
+						"content": "똘마니",
+						"beginOffset": 102
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "작업 파트너",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.050570823,
+			"mentions": [
+				{
+					"text": {
+						"content": "작업 파트너",
+						"beginOffset": 32
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "학창",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.046429683,
+			"mentions": [
+				{
+					"text": {
+						"content": "학창",
+						"beginOffset": 50
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "뻥",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04490128,
+			"mentions": [
+				{
+					"text": {
+						"content": "뻥",
+						"beginOffset": 285
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "거짓말",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04490128,
+			"mentions": [
+				{
+					"text": {
+						"content": "거짓말",
+						"beginOffset": 272
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "대철 밑",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.044166293,
+			"mentions": [
+				{
+					"text": {
+						"content": "대철 밑",
+						"beginOffset": 155
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "힘",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.044166293,
+			"mentions": [
+				{
+					"text": {
+						"content": "힘",
+						"beginOffset": 198
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어깨",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.044166293,
+			"mentions": [
+				{
+					"text": {
+						"content": "어깨",
+						"beginOffset": 188
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "트러블 메이커",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.04332321,
+			"mentions": [
+				{
+					"text": {
+						"content": "트러블 메이커",
+						"beginOffset": 216
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "삼류",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.042608343,
+			"mentions": [
+				{
+					"text": {
+						"content": "삼류",
+						"beginOffset": 119
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "제비짓",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.042608343,
+			"mentions": [
+				{
+					"text": {
+						"content": "제비짓",
+						"beginOffset": 126
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "불알친구",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.04215022,
+			"mentions": [
+				{
+					"text": {
+						"content": "불알친구",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "입",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.041411664,
+			"mentions": [
+				{
+					"text": {
+						"content": "입",
+						"beginOffset": 292
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "친구",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.04073267,
+			"mentions": [
+				{
+					"text": {
+						"content": "친구",
+						"beginOffset": 79
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "속정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03997003,
+			"mentions": [
+				{
+					"text": {
+						"content": "속정",
+						"beginOffset": 338
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "마음",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03997003,
+			"mentions": [
+				{
+					"text": {
+						"content": "마음",
+						"beginOffset": 352
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사나",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.028480802,
+			"mentions": [
+				{
+					"text": {
+						"content": "사나",
+						"beginOffset": 366
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

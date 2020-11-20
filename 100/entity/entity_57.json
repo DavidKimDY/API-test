@@ -1,0 +1,305 @@
+{
+	"entities": [
+		{
+			"name": "섬세하고",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.080789834,
+			"mentions": [
+				{
+					"text": {
+						"content": "섬세하고",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "냉소",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.059438933,
+			"mentions": [
+				{
+					"text": {
+						"content": "냉소",
+						"beginOffset": 119
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "교통사고",
+			"type": "EVENT",
+			"metadata": {},
+			"salience": 0.059438933,
+			"mentions": [
+				{
+					"text": {
+						"content": "교통사고",
+						"beginOffset": 88
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "불의",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.059438933,
+			"mentions": [
+				{
+					"text": {
+						"content": "불의",
+						"beginOffset": 78
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "반항",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.055657923,
+			"mentions": [
+				{
+					"text": {
+						"content": "반항",
+						"beginOffset": 135
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "성격",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.055384554,
+			"mentions": [
+				{
+					"text": {
+						"content": "성격",
+						"beginOffset": 52
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자유분방",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.055384554,
+			"mentions": [
+				{
+					"text": {
+						"content": "자유분방",
+						"beginOffset": 36
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "다정 다감",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.053379107,
+			"mentions": [
+				{
+					"text": {
+						"content": "다정 다감",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.050573245,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 218
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어머니",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.048597332,
+			"mentions": [
+				{
+					"text": {
+						"content": "어머니",
+						"beginOffset": 65
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.047611114,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 162
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "반발심",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.047031116,
+			"mentions": [
+				{
+					"text": {
+						"content": "반발심",
+						"beginOffset": 244
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "성격",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.045665957,
+			"mentions": [
+				{
+					"text": {
+						"content": "성격",
+						"beginOffset": 406
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "겉",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.045562945,
+			"mentions": [
+				{
+					"text": {
+						"content": "겉",
+						"beginOffset": 305
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "친아들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.0430617,
+			"mentions": [
+				{
+					"text": {
+						"content": "친아들",
+						"beginOffset": 185
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "표현",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.042679247,
+			"mentions": [
+				{
+					"text": {
+						"content": "표현",
+						"beginOffset": 274
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "민재",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.041547593,
+			"mentions": [
+				{
+					"text": {
+						"content": "민재",
+						"beginOffset": 175
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "옷차림",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03872446,
+			"mentions": [
+				{
+					"text": {
+						"content": "옷차림",
+						"beginOffset": 423
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "격식",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03872446,
+			"mentions": [
+				{
+					"text": {
+						"content": "격식",
+						"beginOffset": 436
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "심성",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.031308062,
+			"mentions": [
+				{
+					"text": {
+						"content": "심성",
+						"beginOffset": 356
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

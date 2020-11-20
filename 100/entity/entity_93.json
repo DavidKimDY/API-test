@@ -1,0 +1,110 @@
+{
+	"entities": [
+		{
+			"name": "CE 그룹 전략기획본부",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.24164654,
+			"mentions": [
+				{
+					"text": {
+						"content": "CE 그룹 전략기획본부",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "과장",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.16693394,
+			"mentions": [
+				{
+					"text": {
+						"content": "과장",
+						"beginOffset": 29
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "욕망",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.13100116,
+			"mentions": [
+				{
+					"text": {
+						"content": "욕망",
+						"beginOffset": 147
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.12703823,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 73
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "속",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12605841,
+			"mentions": [
+				{
+					"text": {
+						"content": "속",
+						"beginOffset": 117
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "비밀",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12122625,
+			"mentions": [
+				{
+					"text": {
+						"content": "비밀",
+						"beginOffset": 137
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "겉",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08609546,
+			"mentions": [
+				{
+					"text": {
+						"content": "겉",
+						"beginOffset": 37
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

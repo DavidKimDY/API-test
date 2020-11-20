@@ -1,0 +1,155 @@
+{
+	"entities": [
+		{
+			"name": "민기",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.13701099,
+			"mentions": [
+				{
+					"text": {
+						"content": "민기",
+						"beginOffset": 114
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "민기",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.13462901,
+			"mentions": [
+				{
+					"text": {
+						"content": "민기",
+						"beginOffset": 104
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "민기",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.13282925,
+			"mentions": [
+				{
+					"text": {
+						"content": "민기",
+						"beginOffset": 47
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "민기",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.12307686,
+			"mentions": [
+				{
+					"text": {
+						"content": "민기",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "신영",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.11018049,
+			"mentions": [
+				{
+					"text": {
+						"content": "신영",
+						"beginOffset": 140
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "로맨스 소설",
+			"type": "WORK_OF_ART",
+			"metadata": {},
+			"salience": 0.077724814,
+			"mentions": [
+				{
+					"text": {
+						"content": "로맨스 소설",
+						"beginOffset": 17
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "민박집",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.075499676,
+			"mentions": [
+				{
+					"text": {
+						"content": "민박집",
+						"beginOffset": 77
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "주인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07494836,
+			"mentions": [
+				{
+					"text": {
+						"content": "주인",
+						"beginOffset": 90
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사이",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07222281,
+			"mentions": [
+				{
+					"text": {
+						"content": "사이",
+						"beginOffset": 146
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "팬",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.061877728,
+			"mentions": [
+				{
+					"text": {
+						"content": "팬",
+						"beginOffset": 37
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

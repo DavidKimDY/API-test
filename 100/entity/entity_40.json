@@ -1,0 +1,260 @@
+{
+	"entities": [
+		{
+			"name": "민희",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.10138498,
+			"mentions": [
+				{
+					"text": {
+						"content": "민희",
+						"beginOffset": 18
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.061531615,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 168
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "하진",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.061524674,
+			"mentions": [
+				{
+					"text": {
+						"content": "하진",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "연인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.061524674,
+			"mentions": [
+				{
+					"text": {
+						"content": "연인",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남편",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.061524674,
+			"mentions": [
+				{
+					"text": {
+						"content": "남편",
+						"beginOffset": 28
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "안",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05945768,
+			"mentions": [
+				{
+					"text": {
+						"content": "안",
+						"beginOffset": 94
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05945768,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 105
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "안",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.057413254,
+			"mentions": [
+				{
+					"text": {
+						"content": "안",
+						"beginOffset": 334
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "얼음",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0565483,
+			"mentions": [
+				{
+					"text": {
+						"content": "얼음",
+						"beginOffset": 48
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "찌꺼기",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.055678375,
+			"mentions": [
+				{
+					"text": {
+						"content": "찌꺼기",
+						"beginOffset": 266
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자존심",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05428033,
+			"mentions": [
+				{
+					"text": {
+						"content": "자존심",
+						"beginOffset": 307
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "무관심",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.053823803,
+			"mentions": [
+				{
+					"text": {
+						"content": "무관심",
+						"beginOffset": 181
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "밖",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.053823803,
+			"mentions": [
+				{
+					"text": {
+						"content": "밖",
+						"beginOffset": 161
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "감정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.053823803,
+			"mentions": [
+				{
+					"text": {
+						"content": "감정",
+						"beginOffset": 131
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.051926523,
+			"mentions": [
+				{
+					"text": {
+						"content": "남자",
+						"beginOffset": 394
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "존재",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.0501005,
+			"mentions": [
+				{
+					"text": {
+						"content": "존재",
+						"beginOffset": 341
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "이중",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04617533,
+			"mentions": [
+				{
+					"text": {
+						"content": "이중",
+						"beginOffset": 381
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

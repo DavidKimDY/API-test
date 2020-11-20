@@ -1,0 +1,159 @@
+{
+	"entities": [
+		{
+			"name": "유민희",
+			"type": "PERSON",
+			"metadata": {
+				"mid": "/g/11hyjxdg4d"
+			},
+			"salience": 0.17342325,
+			"mentions": [
+				{
+					"text": {
+						"content": "유민희",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "강력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.13358955,
+			"mentions": [
+				{
+					"text": {
+						"content": "강력",
+						"beginOffset": 27
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "반장",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.12984069,
+			"mentions": [
+				{
+					"text": {
+						"content": "반장",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인생",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.102840684,
+			"mentions": [
+				{
+					"text": {
+						"content": "인생",
+						"beginOffset": 90
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "노총각",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.10040198,
+			"mentions": [
+				{
+					"text": {
+						"content": "노총각",
+						"beginOffset": 53
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "여자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.10040198,
+			"mentions": [
+				{
+					"text": {
+						"content": "여자",
+						"beginOffset": 66
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "낙인",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09563582,
+			"mentions": [
+				{
+					"text": {
+						"content": "낙인",
+						"beginOffset": 107
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "소속",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09545812,
+			"mentions": [
+				{
+					"text": {
+						"content": "소속",
+						"beginOffset": 39
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인간",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06840793,
+			"mentions": [
+				{
+					"text": {
+						"content": "인간",
+						"beginOffset": 128
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "1",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "1"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "1",
+						"beginOffset": 34
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

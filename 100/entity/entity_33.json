@@ -1,0 +1,85 @@
+{
+	"entities": [
+		{
+			"name": "윤유선",
+			"type": "PERSON",
+			"metadata": {
+				"mid": "/m/0kptzy8",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Yoon_Yoo-sun"
+			},
+			"salience": 0.32592762,
+			"mentions": [
+				{
+					"text": {
+						"content": "윤유선",
+						"beginOffset": 51
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "꽃미남",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.23597099,
+			"mentions": [
+				{
+					"text": {
+						"content": "꽃미남",
+						"beginOffset": 35
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "전설",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.23027079,
+			"mentions": [
+				{
+					"text": {
+						"content": "전설",
+						"beginOffset": 25
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "풍파고",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.20783062,
+			"mentions": [
+				{
+					"text": {
+						"content": "풍파고",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "3",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "3"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "3",
+						"beginOffset": 10
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

@@ -1,0 +1,188 @@
+{
+	"entities": [
+		{
+			"name": "이태준",
+			"type": "PERSON",
+			"metadata": {
+				"wikipedia_url": "https://fr.wikipedia.org/wiki/Yi_Tae_Jun",
+				"mid": "/m/0nbfzsm"
+			},
+			"salience": 0.1283897,
+			"mentions": [
+				{
+					"text": {
+						"content": "이태준",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "홍나림",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.1283897,
+			"mentions": [
+				{
+					"text": {
+						"content": "홍나림",
+						"beginOffset": 13
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "딸",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09724182,
+			"mentions": [
+				{
+					"text": {
+						"content": "딸",
+						"beginOffset": 26
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "생활",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08440967,
+			"mentions": [
+				{
+					"text": {
+						"content": "생활",
+						"beginOffset": 99
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "형우",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07451832,
+			"mentions": [
+				{
+					"text": {
+						"content": "형우",
+						"beginOffset": 31
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "가슴",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07291212,
+			"mentions": [
+				{
+					"text": {
+						"content": "가슴",
+						"beginOffset": 122
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어머니",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.071103476,
+			"mentions": [
+				{
+					"text": {
+						"content": "어머니",
+						"beginOffset": 79
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.071103476,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 66
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "결혼",
+			"type": "EVENT",
+			"metadata": {},
+			"salience": 0.07050755,
+			"mentions": [
+				{
+					"text": {
+						"content": "결혼",
+						"beginOffset": 92
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "여동생",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.069692,
+			"mentions": [
+				{
+					"text": {
+						"content": "여동생",
+						"beginOffset": 38
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사춘기",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06586608,
+			"mentions": [
+				{
+					"text": {
+						"content": "사춘기",
+						"beginOffset": 156
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "소녀",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06586608,
+			"mentions": [
+				{
+					"text": {
+						"content": "소녀",
+						"beginOffset": 166
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

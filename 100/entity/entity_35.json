@@ -1,0 +1,157 @@
+{
+	"entities": [
+		{
+			"name": "사업",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11741014,
+			"mentions": [
+				{
+					"text": {
+						"content": "사업",
+						"beginOffset": 207
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수완",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11741014,
+			"mentions": [
+				{
+					"text": {
+						"content": "수완",
+						"beginOffset": 214
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "조인트",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11473131,
+			"mentions": [
+				{
+					"text": {
+						"content": "조인트",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "불법 도박 사이트",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.1126536,
+			"mentions": [
+				{
+					"text": {
+						"content": "불법 도박 사이트",
+						"beginOffset": 80
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "로비",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11175598,
+			"mentions": [
+				{
+					"text": {
+						"content": "로비",
+						"beginOffset": 224
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "현찰",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11056106,
+			"mentions": [
+				{
+					"text": {
+						"content": "현찰",
+						"beginOffset": 160
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수익",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.10951461,
+			"mentions": [
+				{
+					"text": {
+						"content": "수익",
+						"beginOffset": 241
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "성인 오락실",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.1062903,
+			"mentions": [
+				{
+					"text": {
+						"content": "성인 오락실",
+						"beginOffset": 47
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "업종",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.099672854,
+			"mentions": [
+				{
+					"text": {
+						"content": "업종",
+						"beginOffset": 107
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "100억",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "10000000000.000000"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "100억",
+						"beginOffset": 269
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

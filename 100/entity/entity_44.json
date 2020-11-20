@@ -1,0 +1,305 @@
+{
+	"entities": [
+		{
+			"name": "윤주의",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09761634,
+			"mentions": [
+				{
+					"text": {
+						"content": "윤주의",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "윤주",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08286043,
+			"mentions": [
+				{
+					"text": {
+						"content": "윤주",
+						"beginOffset": 240
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "사이",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.058975995,
+			"mentions": [
+				{
+					"text": {
+						"content": "사이",
+						"beginOffset": 264
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남편",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.052812286,
+			"mentions": [
+				{
+					"text": {
+						"content": "남편",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사업",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05229477,
+			"mentions": [
+				{
+					"text": {
+						"content": "사업",
+						"beginOffset": 133
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인화",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051842887,
+			"mentions": [
+				{
+					"text": {
+						"content": "인화",
+						"beginOffset": 166
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인화",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051014826,
+			"mentions": [
+				{
+					"text": {
+						"content": "인화",
+						"beginOffset": 79
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "운영",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.048487596,
+			"mentions": [
+				{
+					"text": {
+						"content": "운영",
+						"beginOffset": 61
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "클럽 A",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.048487596,
+			"mentions": [
+				{
+					"text": {
+						"content": "클럽 A",
+						"beginOffset": 49
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "차승조",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.046519756,
+			"mentions": [
+				{
+					"text": {
+						"content": "차승조",
+						"beginOffset": 220
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "승조",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.045243435,
+			"mentions": [
+				{
+					"text": {
+						"content": "승조",
+						"beginOffset": 156
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "정략결혼",
+			"type": "EVENT",
+			"metadata": {},
+			"salience": 0.045243435,
+			"mentions": [
+				{
+					"text": {
+						"content": "정략결혼",
+						"beginOffset": 176
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아내",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.042898197,
+			"mentions": [
+				{
+					"text": {
+						"content": "아내",
+						"beginOffset": 233
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "연인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.042898197,
+			"mentions": [
+				{
+					"text": {
+						"content": "연인",
+						"beginOffset": 257
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "경영권",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.041758146,
+			"mentions": [
+				{
+					"text": {
+						"content": "경영권",
+						"beginOffset": 89
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "꿈",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.041741632,
+			"mentions": [
+				{
+					"text": {
+						"content": "꿈",
+						"beginOffset": 287
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "국내",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.039018787,
+			"mentions": [
+				{
+					"text": {
+						"content": "국내",
+						"beginOffset": 18
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "확장",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.038382843,
+			"mentions": [
+				{
+					"text": {
+						"content": "확장",
+						"beginOffset": 139
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "SPA 브랜드",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.036900375,
+			"mentions": [
+				{
+					"text": {
+						"content": "SPA 브랜드",
+						"beginOffset": 32
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "신경전",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03500247,
+			"mentions": [
+				{
+					"text": {
+						"content": "신경전",
+						"beginOffset": 109
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

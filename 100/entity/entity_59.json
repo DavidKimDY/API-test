@@ -1,0 +1,290 @@
+{
+	"entities": [
+		{
+			"name": "현우",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.0793796,
+			"mentions": [
+				{
+					"text": {
+						"content": "현우",
+						"beginOffset": 228
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "법조계",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06769129,
+			"mentions": [
+				{
+					"text": {
+						"content": "법조계",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "법조계",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.06769129,
+			"mentions": [
+				{
+					"text": {
+						"content": "법조계",
+						"beginOffset": 46
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "집안",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06642108,
+			"mentions": [
+				{
+					"text": {
+						"content": "집안",
+						"beginOffset": 56
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "몸담",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05669049,
+			"mentions": [
+				{
+					"text": {
+						"content": "몸담",
+						"beginOffset": 23
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.055923067,
+			"mentions": [
+				{
+					"text": {
+						"content": "아들",
+						"beginOffset": 66
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05478318,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 138
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "로펌",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05431215,
+			"mentions": [
+				{
+					"text": {
+						"content": "로펌",
+						"beginOffset": 178
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "대대로",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05430594,
+			"mentions": [
+				{
+					"text": {
+						"content": "대대로",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "법조인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.054209482,
+			"mentions": [
+				{
+					"text": {
+						"content": "법조인",
+						"beginOffset": 238
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "전통",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05154218,
+			"mentions": [
+				{
+					"text": {
+						"content": "전통",
+						"beginOffset": 33
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "판사",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.049858943,
+			"mentions": [
+				{
+					"text": {
+						"content": "판사",
+						"beginOffset": 80
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "로펌",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.049698353,
+			"mentions": [
+				{
+					"text": {
+						"content": "로펌",
+						"beginOffset": 324
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "삼촌",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.049585514,
+			"mentions": [
+				{
+					"text": {
+						"content": "삼촌",
+						"beginOffset": 168
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "케이스",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.046428088,
+			"mentions": [
+				{
+					"text": {
+						"content": "케이스",
+						"beginOffset": 127
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "결과",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.044470295,
+			"mentions": [
+				{
+					"text": {
+						"content": "결과",
+						"beginOffset": 300
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "대법관",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03400285,
+			"mentions": [
+				{
+					"text": {
+						"content": "대법관",
+						"beginOffset": 151
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "변호사",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.033680454,
+			"mentions": [
+				{
+					"text": {
+						"content": "변호사",
+						"beginOffset": 201
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "검사",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.02932575,
+			"mentions": [
+				{
+					"text": {
+						"content": "검사",
+						"beginOffset": 106
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

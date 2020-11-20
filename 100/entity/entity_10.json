@@ -1,0 +1,50 @@
+{
+	"entities": [
+		{
+			"name": "꽃파당",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.34219748,
+			"mentions": [
+				{
+					"text": {
+						"content": "꽃파당",
+						"beginOffset": 1
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "혼사",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.3345929,
+			"mentions": [
+				{
+					"text": {
+						"content": "혼사",
+						"beginOffset": 15
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "낭자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.3232096,
+			"mentions": [
+				{
+					"text": {
+						"content": "낭자",
+						"beginOffset": 38
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

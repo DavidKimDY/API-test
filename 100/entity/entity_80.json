@@ -1,0 +1,80 @@
+{
+	"entities": [
+		{
+			"name": "지철",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.2557141,
+			"mentions": [
+				{
+					"text": {
+						"content": "지철",
+						"beginOffset": 67
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "지철",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.24805097,
+			"mentions": [
+				{
+					"text": {
+						"content": "지철",
+						"beginOffset": 122
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "아빠",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.19713132,
+			"mentions": [
+				{
+					"text": {
+						"content": "아빠",
+						"beginOffset": 9
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "애",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.14967889,
+			"mentions": [
+				{
+					"text": {
+						"content": "애",
+						"beginOffset": 94
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "생계형 경찰",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.14942473,
+			"mentions": [
+				{
+					"text": {
+						"content": "생계형 경찰",
+						"beginOffset": 30
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

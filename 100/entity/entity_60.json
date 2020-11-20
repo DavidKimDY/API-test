@@ -1,0 +1,110 @@
+{
+	"entities": [
+		{
+			"name": "사장님",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.16556817,
+			"mentions": [
+				{
+					"text": {
+						"content": "사장님",
+						"beginOffset": 50
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "돼지 농장",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.16556817,
+			"mentions": [
+				{
+					"text": {
+						"content": "돼지 농장",
+						"beginOffset": 36
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "짬밥",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.14364794,
+			"mentions": [
+				{
+					"text": {
+						"content": "짬밥",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "군대",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.14364794,
+			"mentions": [
+				{
+					"text": {
+						"content": "군대",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "시",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.13247733,
+			"mentions": [
+				{
+					"text": {
+						"content": "시",
+						"beginOffset": 71
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "음악",
+			"type": "WORK_OF_ART",
+			"metadata": {},
+			"salience": 0.12845673,
+			"mentions": [
+				{
+					"text": {
+						"content": "음악",
+						"beginOffset": 61
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "보헤미안",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12063373,
+			"mentions": [
+				{
+					"text": {
+						"content": "보헤미안",
+						"beginOffset": 91
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

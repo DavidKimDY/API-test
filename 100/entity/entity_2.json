@@ -1,0 +1,369 @@
+{
+	"entities": [
+		{
+			"name": "일",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05285002,
+			"mentions": [
+				{
+					"text": {
+						"content": "일",
+						"beginOffset": 34
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "취업사이트",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05285002,
+			"mentions": [
+				{
+					"text": {
+						"content": "취업사이트",
+						"beginOffset": 41
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "탐색",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05285002,
+			"mentions": [
+				{
+					"text": {
+						"content": "탐색",
+						"beginOffset": 57
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "추리닝",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.049056344,
+			"mentions": [
+				{
+					"text": {
+						"content": "추리닝",
+						"beginOffset": 361
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "패션지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.048475713,
+			"mentions": [
+				{
+					"text": {
+						"content": "패션지",
+						"beginOffset": 144
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자리",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.048475713,
+			"mentions": [
+				{
+					"text": {
+						"content": "자리",
+						"beginOffset": 85
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "이직",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.048475713,
+			"mentions": [
+				{
+					"text": {
+						"content": "이직",
+						"beginOffset": 112
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "경력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.048475713,
+			"mentions": [
+				{
+					"text": {
+						"content": "경력",
+						"beginOffset": 130
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "목표",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.047350697,
+			"mentions": [
+				{
+					"text": {
+						"content": "목표",
+						"beginOffset": 209
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "떡진 머리",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.046488076,
+			"mentions": [
+				{
+					"text": {
+						"content": "떡진 머리",
+						"beginOffset": 344
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "선배들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.046488076,
+			"mentions": [
+				{
+					"text": {
+						"content": "선배들",
+						"beginOffset": 391
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "셀럽",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04526167,
+			"mentions": [
+				{
+					"text": {
+						"content": "셀럽",
+						"beginOffset": 175
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "풀 착장",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.045199838,
+			"mentions": [
+				{
+					"text": {
+						"content": "풀 착장",
+						"beginOffset": 301
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "풀 메이크업",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.045199838,
+			"mentions": [
+				{
+					"text": {
+						"content": "풀 메이크업",
+						"beginOffset": 281
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "세수",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.044835053,
+			"mentions": [
+				{
+					"text": {
+						"content": "세수",
+						"beginOffset": 323
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "효주",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04444665,
+			"mentions": [
+				{
+					"text": {
+						"content": "효주",
+						"beginOffset": 199
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "시집",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.042548884,
+			"mentions": [
+				{
+					"text": {
+						"content": "시집",
+						"beginOffset": 454
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "궁상떠",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.042548884,
+			"mentions": [
+				{
+					"text": {
+						"content": "궁상떠",
+						"beginOffset": 475
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "리포터",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.038927503,
+			"mentions": [
+				{
+					"text": {
+						"content": "리포터",
+						"beginOffset": 75
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "방송국",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.038927503,
+			"mentions": [
+				{
+					"text": {
+						"content": "방송국",
+						"beginOffset": 65
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "하리",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03806526,
+			"mentions": [
+				{
+					"text": {
+						"content": "하리",
+						"beginOffset": 488
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "생각",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03220282,
+			"mentions": [
+				{
+					"text": {
+						"content": "생각",
+						"beginOffset": 161
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "3",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "3"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "3",
+						"beginOffset": 247
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		},
+		{
+			"name": "서른아홉",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "39"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "서른아홉",
+						"beginOffset": 428
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

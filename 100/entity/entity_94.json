@@ -1,0 +1,140 @@
+{
+	"entities": [
+		{
+			"name": "타산",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12573569,
+			"mentions": [
+				{
+					"text": {
+						"content": "타산",
+						"beginOffset": 7
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "욕심",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11633674,
+			"mentions": [
+				{
+					"text": {
+						"content": "욕심",
+						"beginOffset": 37
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수단",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11633674,
+			"mentions": [
+				{
+					"text": {
+						"content": "수단",
+						"beginOffset": 74
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "처세",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11113762,
+			"mentions": [
+				{
+					"text": {
+						"content": "처세",
+						"beginOffset": 128
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "방법",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11079347,
+			"mentions": [
+				{
+					"text": {
+						"content": "방법",
+						"beginOffset": 81
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.10918966,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 158
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "회사",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.10918966,
+			"mentions": [
+				{
+					"text": {
+						"content": "회사",
+						"beginOffset": 174
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.108291745,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 276
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자식들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09298866,
+			"mentions": [
+				{
+					"text": {
+						"content": "자식들",
+						"beginOffset": 203
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

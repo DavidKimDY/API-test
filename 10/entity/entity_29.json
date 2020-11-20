@@ -1,0 +1,170 @@
+{
+	"entities": [
+		{
+			"name": "인도",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.14652586,
+			"mentions": [
+				{
+					"text": {
+						"content": "인도",
+						"beginOffset": 30
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "스케줄러",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.110462174,
+			"mentions": [
+				{
+					"text": {
+						"content": "스케줄러",
+						"beginOffset": 43
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "세계",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.09145981,
+			"mentions": [
+				{
+					"text": {
+						"content": "세계",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "영혼들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09145981,
+			"mentions": [
+				{
+					"text": {
+						"content": "영혼들",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "생전",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0860547,
+			"mentions": [
+				{
+					"text": {
+						"content": "생전",
+						"beginOffset": 131
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "꽃미남",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08436324,
+			"mentions": [
+				{
+					"text": {
+						"content": "꽃미남",
+						"beginOffset": 57
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "예정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.081727244,
+			"mentions": [
+				{
+					"text": {
+						"content": "예정",
+						"beginOffset": 185
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자유분방함",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0788427,
+			"mentions": [
+				{
+					"text": {
+						"content": "자유분방함",
+						"beginOffset": 70
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "전생",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.077755526,
+			"mentions": [
+				{
+					"text": {
+						"content": "전생",
+						"beginOffset": 98
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "지현",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.075674474,
+			"mentions": [
+				{
+					"text": {
+						"content": "지현",
+						"beginOffset": 202
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사고",
+			"type": "EVENT",
+			"metadata": {},
+			"salience": 0.075674474,
+			"mentions": [
+				{
+					"text": {
+						"content": "사고",
+						"beginOffset": 212
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

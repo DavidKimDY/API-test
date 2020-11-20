@@ -1,0 +1,368 @@
+{
+	"entities": [
+		{
+			"name": "Bistro",
+			"type": "OTHER",
+			"metadata": {
+				"mid": "/m/072qlz",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Bistro"
+			},
+			"salience": 0.07229936,
+			"mentions": [
+				{
+					"text": {
+						"content": "Bistro",
+						"beginOffset": 14
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "셰프 마음대로",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.060411323,
+			"mentions": [
+				{
+					"text": {
+						"content": "셰프 마음대로",
+						"beginOffset": 508
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "심야식당",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.057573657,
+			"mentions": [
+				{
+					"text": {
+						"content": "심야식당",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "형제식당",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.051098473,
+			"mentions": [
+				{
+					"text": {
+						"content": "형제식당",
+						"beginOffset": 425
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "셰프",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.04898889,
+			"mentions": [
+				{
+					"text": {
+						"content": "셰프",
+						"beginOffset": 52
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "심야식당",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.046115655,
+			"mentions": [
+				{
+					"text": {
+						"content": "심야식당",
+						"beginOffset": 561
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "집안 살림",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.045026816,
+			"mentions": [
+				{
+					"text": {
+						"content": "집안 살림",
+						"beginOffset": 91
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "야식 힐링",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0428526,
+			"mentions": [
+				{
+					"text": {
+						"content": "야식 힐링",
+						"beginOffset": 38
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "살림",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04242348,
+			"mentions": [
+				{
+					"text": {
+						"content": "살림",
+						"beginOffset": 266
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "요리사",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.041362964,
+			"mentions": [
+				{
+					"text": {
+						"content": "요리사",
+						"beginOffset": 183
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "형제식당",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.039326847,
+			"mentions": [
+				{
+					"text": {
+						"content": "형제식당",
+						"beginOffset": 381
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "탓",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039272327,
+			"mentions": [
+				{
+					"text": {
+						"content": "탓",
+						"beginOffset": 84
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "운영",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.038829032,
+			"mentions": [
+				{
+					"text": {
+						"content": "운영",
+						"beginOffset": 577
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "속",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.038648583,
+			"mentions": [
+				{
+					"text": {
+						"content": "속",
+						"beginOffset": 273
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "일",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0376475,
+			"mentions": [
+				{
+					"text": {
+						"content": "일",
+						"beginOffset": 400
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "고사장",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.03629717,
+			"mentions": [
+				{
+					"text": {
+						"content": "고사장",
+						"beginOffset": 368
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "길",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.035980012,
+			"mentions": [
+				{
+					"text": {
+						"content": "길",
+						"beginOffset": 217
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "꿈",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.035980012,
+			"mentions": [
+				{
+					"text": {
+						"content": "꿈",
+						"beginOffset": 196
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "비스트",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.034664184,
+			"mentions": [
+				{
+					"text": {
+						"content": "비스트",
+						"beginOffset": 448
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "콘셉트",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.033713344,
+			"mentions": [
+				{
+					"text": {
+						"content": "콘셉트",
+						"beginOffset": 548
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "동생",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03298818,
+			"mentions": [
+				{
+					"text": {
+						"content": "동생",
+						"beginOffset": 132
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "엄마",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03147845,
+			"mentions": [
+				{
+					"text": {
+						"content": "엄마",
+						"beginOffset": 60
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "이웃",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.030957198,
+			"mentions": [
+				{
+					"text": {
+						"content": "이웃",
+						"beginOffset": 286
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.026063943,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 344
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

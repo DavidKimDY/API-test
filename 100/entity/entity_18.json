@@ -1,0 +1,125 @@
+{
+	"entities": [
+		{
+			"name": "진평",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.18543984,
+			"mentions": [
+				{
+					"text": {
+						"content": "진평",
+						"beginOffset": 28
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "성품",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12806773,
+			"mentions": [
+				{
+					"text": {
+						"content": "성품",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "미실",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11789315,
+			"mentions": [
+				{
+					"text": {
+						"content": "미실",
+						"beginOffset": 119
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "황후",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11789315,
+			"mentions": [
+				{
+					"text": {
+						"content": "황후",
+						"beginOffset": 99
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "상태",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11514687,
+			"mentions": [
+				{
+					"text": {
+						"content": "상태",
+						"beginOffset": 69
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "궁",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11424013,
+			"mentions": [
+				{
+					"text": {
+						"content": "궁",
+						"beginOffset": 79
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "정식 부인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.11154637,
+			"mentions": [
+				{
+					"text": {
+						"content": "정식 부인",
+						"beginOffset": 38
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "꿈",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.10977275,
+			"mentions": [
+				{
+					"text": {
+						"content": "꿈",
+						"beginOffset": 129
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

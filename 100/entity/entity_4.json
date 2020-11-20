@@ -1,0 +1,200 @@
+{
+	"entities": [
+		{
+			"name": "정호",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.12185964,
+			"mentions": [
+				{
+					"text": {
+						"content": "정호",
+						"beginOffset": 131
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "골드그룹",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.08496519,
+			"mentions": [
+				{
+					"text": {
+						"content": "골드그룹",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "삼녀",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08496519,
+			"mentions": [
+				{
+					"text": {
+						"content": "삼녀",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사건 사고",
+			"type": "EVENT",
+			"metadata": {},
+			"salience": 0.08145485,
+			"mentions": [
+				{
+					"text": {
+						"content": "사건 사고",
+						"beginOffset": 96
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "의건",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07811398,
+			"mentions": [
+				{
+					"text": {
+						"content": "의건",
+						"beginOffset": 204
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "거침",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07731317,
+			"mentions": [
+				{
+					"text": {
+						"content": "거침",
+						"beginOffset": 78
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "매일반",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07401504,
+			"mentions": [
+				{
+					"text": {
+						"content": "매일반",
+						"beginOffset": 141
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "규모",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07338644,
+			"mentions": [
+				{
+					"text": {
+						"content": "규모",
+						"beginOffset": 162
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "죄책감",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0728286,
+			"mentions": [
+				{
+					"text": {
+						"content": "죄책감",
+						"beginOffset": 183
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "뼛속",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.069320425,
+			"mentions": [
+				{
+					"text": {
+						"content": "뼛속",
+						"beginOffset": 261
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "갑질",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.069320425,
+			"mentions": [
+				{
+					"text": {
+						"content": "갑질",
+						"beginOffset": 274
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "막내딸",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06372047,
+			"mentions": [
+				{
+					"text": {
+						"content": "막내딸",
+						"beginOffset": 34
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "러브라인",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.048736583,
+			"mentions": [
+				{
+					"text": {
+						"content": "러브라인",
+						"beginOffset": 328
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

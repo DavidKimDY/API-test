@@ -1,0 +1,399 @@
+{
+	"entities": [
+		{
+			"name": "민석",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07296667,
+			"mentions": [
+				{
+					"text": {
+						"content": "민석",
+						"beginOffset": 363
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "민석",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06798455,
+			"mentions": [
+				{
+					"text": {
+						"content": "민석",
+						"beginOffset": 425
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "민석",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06650706,
+			"mentions": [
+				{
+					"text": {
+						"content": "민석",
+						"beginOffset": 479
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "형석",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.060094144,
+			"mentions": [
+				{
+					"text": {
+						"content": "형석",
+						"beginOffset": 356
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "나이",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05156798,
+			"mentions": [
+				{
+					"text": {
+						"content": "나이",
+						"beginOffset": 329
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "실장",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05156798,
+			"mentions": [
+				{
+					"text": {
+						"content": "실장",
+						"beginOffset": 339
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아무 라인 없이 독야청청",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.05115658,
+			"mentions": [
+				{
+					"text": {
+						"content": "아무 라인 없이 독야청청",
+						"beginOffset": 7
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "칼",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.040720005,
+			"mentions": [
+				{
+					"text": {
+						"content": "칼",
+						"beginOffset": 162
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자리",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039527275,
+			"mentions": [
+				{
+					"text": {
+						"content": "자리",
+						"beginOffset": 64
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "섬",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.03615212,
+			"mentions": [
+				{
+					"text": {
+						"content": "섬",
+						"beginOffset": 91
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03615212,
+			"mentions": [
+				{
+					"text": {
+						"content": "남자",
+						"beginOffset": 102
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "승진",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.034355786,
+			"mentions": [
+				{
+					"text": {
+						"content": "승진",
+						"beginOffset": 220
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "명단",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.034355786,
+			"mentions": [
+				{
+					"text": {
+						"content": "명단",
+						"beginOffset": 227
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "탓",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.034355786,
+			"mentions": [
+				{
+					"text": {
+						"content": "탓",
+						"beginOffset": 213
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "장점",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.034043796,
+			"mentions": [
+				{
+					"text": {
+						"content": "장점",
+						"beginOffset": 304
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아첨",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.033121385,
+			"mentions": [
+				{
+					"text": {
+						"content": "아첨",
+						"beginOffset": 192
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아부",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.033121385,
+			"mentions": [
+				{
+					"text": {
+						"content": "아부",
+						"beginOffset": 182
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "목",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.033121385,
+			"mentions": [
+				{
+					"text": {
+						"content": "목",
+						"beginOffset": 155
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "소리",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.033121385,
+			"mentions": [
+				{
+					"text": {
+						"content": "소리",
+						"beginOffset": 137
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "트집 잡지만",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03217436,
+			"mentions": [
+				{
+					"text": {
+						"content": "트집 잡지만",
+						"beginOffset": 406
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인성",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0319101,
+			"mentions": [
+				{
+					"text": {
+						"content": "인성",
+						"beginOffset": 445
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "마음",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0319101,
+			"mentions": [
+				{
+					"text": {
+						"content": "마음",
+						"beginOffset": 462
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "열혈 지지 사원",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.031034801,
+			"mentions": [
+				{
+					"text": {
+						"content": "열혈 지지 사원",
+						"beginOffset": 489
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "주임",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.02897747,
+			"mentions": [
+				{
+					"text": {
+						"content": "주임",
+						"beginOffset": 57
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "40",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "40"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "40",
+						"beginOffset": 0
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		},
+		{
+			"name": "5",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "5"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "5",
+						"beginOffset": 49
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

@@ -1,0 +1,254 @@
+{
+	"entities": [
+		{
+			"name": "주몽",
+			"type": "PERSON",
+			"metadata": {
+				"mid": "/m/0ftjs4",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Jumong_(TV_series)"
+			},
+			"salience": 0.09468574,
+			"mentions": [
+				{
+					"text": {
+						"content": "주몽",
+						"beginOffset": 200
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "해모수",
+			"type": "PERSON",
+			"metadata": {
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Hae_Mo-su_of_Buyeo",
+				"mid": "/m/0b43j5"
+			},
+			"salience": 0.085140355,
+			"mentions": [
+				{
+					"text": {
+						"content": "해모수",
+						"beginOffset": 220
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "사랑",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08380113,
+			"mentions": [
+				{
+					"text": {
+						"content": "사랑",
+						"beginOffset": 145
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "소서노",
+			"type": "PERSON",
+			"metadata": {
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Soseono",
+				"mid": "/m/02767kz"
+			},
+			"salience": 0.07977319,
+			"mentions": [
+				{
+					"text": {
+						"content": "소서노",
+						"beginOffset": 247
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "아들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07039597,
+			"mentions": [
+				{
+					"text": {
+						"content": "아들",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.063802816,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 210
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.061068278,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 70
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "화신. 주몽",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.059610594,
+			"mentions": [
+				{
+					"text": {
+						"content": "화신. 주몽",
+						"beginOffset": 28
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "금",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.056875303,
+			"mentions": [
+				{
+					"text": {
+						"content": "금",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사랑",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.055753563,
+			"mentions": [
+				{
+					"text": {
+						"content": "사랑",
+						"beginOffset": 83
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인물",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.051891986,
+			"mentions": [
+				{
+					"text": {
+						"content": "인물",
+						"beginOffset": 192
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "여인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.050562035,
+			"mentions": [
+				{
+					"text": {
+						"content": "여인",
+						"beginOffset": 135
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "상처",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.050124325,
+			"mentions": [
+				{
+					"text": {
+						"content": "상처",
+						"beginOffset": 175
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수단",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.047296558,
+			"mentions": [
+				{
+					"text": {
+						"content": "수단",
+						"beginOffset": 277
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "방법",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04688018,
+			"mentions": [
+				{
+					"text": {
+						"content": "방법",
+						"beginOffset": 287
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "질투",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.042337988,
+			"mentions": [
+				{
+					"text": {
+						"content": "질투",
+						"beginOffset": 18
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}
