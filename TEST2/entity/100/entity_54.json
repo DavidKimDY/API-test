@@ -55,8 +55,8 @@
 			"name": "소서노",
 			"type": "PERSON",
 			"metadata": {
-				"mid": "/m/02767kz",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Soseono"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Soseono",
+				"mid": "/m/02767kz"
 			},
 			"salience": 0.07977319,
 			"mentions": [

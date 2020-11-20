@@ -69,8 +69,8 @@
 			"name": "서울",
 			"type": "LOCATION",
 			"metadata": {
-				"mid": "/m/0hsqf",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Seoul"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Seoul",
+				"mid": "/m/0hsqf"
 			},
 			"salience": 0.051158123,
 			"mentions": [

@@ -19,8 +19,8 @@
 			"name": "환웅",
 			"type": "PERSON",
 			"metadata": {
-				"mid": "/m/0ddkty",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Hwanung"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Hwanung",
+				"mid": "/m/0ddkty"
 			},
 			"salience": 0.07687331,
 			"mentions": [
@@ -67,8 +67,8 @@
 			"name": "영어",
 			"type": "OTHER",
 			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/English_language",
-				"mid": "/m/02h40lc"
+				"mid": "/m/02h40lc",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/English_language"
 			},
 			"salience": 0.062188927,
 			"mentions": [
@@ -85,8 +85,8 @@
 			"name": "미국",
 			"type": "LOCATION",
 			"metadata": {
-				"mid": "/m/09c7w0",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/United_States"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/United_States",
+				"mid": "/m/09c7w0"
 			},
 			"salience": 0.06038261,
 			"mentions": [

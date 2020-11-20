@@ -4,8 +4,8 @@
 			"name": "서울 법대",
 			"type": "ORGANIZATION",
 			"metadata": {
-				"mid": "/m/0nbdlpv",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Seoul_National_University_Law_School"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Seoul_National_University_Law_School",
+				"mid": "/m/0nbdlpv"
 			},
 			"salience": 0.57122624,
 			"mentions": [

@@ -31,6 +31,13 @@ class Tester():
 
         converted = requests.get(url, headers=self.header, params=self.params)
         json_data = json.loads(converted.text)
+        try:
+            status = json_data['status']
+        except:
+            status = None
+        assert status != 'error', json_data['message']
+
+
         self.save(json_data, text_file)
 
     def convert(self, text_file: str):

@@ -2,7 +2,7 @@ import os
 from API_tester import Tester
 
 mode = 'morpheme'
-API_KEY = '14ff499053fdc7952f20948f33490e27'
+API_KEY = input('API: ')
 current_location = os.getcwd()
 previous_location = os.path.dirname(current_location)
 text_data_path = os.path.join(previous_location, 'text')

@@ -4,8 +4,8 @@
 			"name": "고구려",
 			"type": "LOCATION",
 			"metadata": {
-				"mid": "/m/017c2_",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Goguryeo"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Goguryeo",
+				"mid": "/m/017c2_"
 			},
 			"salience": 0.05994566,
 			"mentions": [

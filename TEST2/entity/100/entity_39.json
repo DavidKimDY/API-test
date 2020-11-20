@@ -4,8 +4,8 @@
 			"name": "흥선군",
 			"type": "PERSON",
 			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Heungseon_Daewongun",
-				"mid": "/m/06zf03"
+				"mid": "/m/06zf03",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Heungseon_Daewongun"
 			},
 			"salience": 0.12167036,
 			"mentions": [

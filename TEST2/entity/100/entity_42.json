@@ -19,8 +19,8 @@
 			"name": "진주란",
 			"type": "OTHER",
 			"metadata": {
-				"mid": "/m/05_8m",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Pearl"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Pearl",
+				"mid": "/m/05_8m"
 			},
 			"salience": 0.05607208,
 			"mentions": [

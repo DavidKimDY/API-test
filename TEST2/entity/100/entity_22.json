@@ -74,8 +74,8 @@
 			"name": "왕",
 			"type": "PERSON",
 			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/King",
-				"mid": "/m/03w9bnr"
+				"mid": "/m/03w9bnr",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/King"
 			},
 			"salience": 0.057060704,
 			"mentions": [
