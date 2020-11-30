@@ -34,8 +34,8 @@
 			"name": "미국",
 			"type": "LOCATION",
 			"metadata": {
-				"mid": "/m/09c7w0",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/United_States"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/United_States",
+				"mid": "/m/09c7w0"
 			},
 			"salience": 0.18752685,
 			"mentions": [

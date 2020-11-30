@@ -4,8 +4,8 @@
 			"name": "제주도",
 			"type": "LOCATION",
 			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Jeju_Province",
-				"mid": "/m/01rffr"
+				"mid": "/m/01rffr",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Jeju_Province"
 			},
 			"salience": 0.108165435,
 			"mentions": [

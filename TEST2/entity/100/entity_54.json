@@ -4,8 +4,8 @@
 			"name": "주몽",
 			"type": "PERSON",
 			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Jumong_(TV_series)",
-				"mid": "/m/0ftjs4"
+				"mid": "/m/0ftjs4",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Jumong_(TV_series)"
 			},
 			"salience": 0.09468574,
 			"mentions": [

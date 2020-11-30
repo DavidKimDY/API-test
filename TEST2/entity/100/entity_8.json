@@ -4,8 +4,8 @@
 			"name": "부산",
 			"type": "LOCATION",
 			"metadata": {
-				"mid": "/m/0hv7l",
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Busan"
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Busan",
+				"mid": "/m/0hv7l"
 			},
 			"salience": 0.065299116,
 			"mentions": [

@@ -24,6 +24,7 @@ class Tester():
 
     def _convert_and_save(self, text_file: str, url):
         path = os.path.join(self.load_path, text_file)
+        print(text_file)
         assert os.path.isfile(path), 'Not found file : {} in {}'.format(text_file, path)
 
         with open(path, 'r', encoding='utf-8') as f:
@@ -36,7 +37,6 @@ class Tester():
         except:
             status = None
         assert status != 'error', json_data['message']
-
 
         self.save(json_data, text_file)
 
@@ -64,5 +64,34 @@ class Tester():
     def get_file_name(self, text_file: str):
         name = text_file.split('.')[0]
         return name
+
+
+class Test():
+    def __init__(self, mode, text_data_path=None):
+        if text_data_path is None:
+            previous_location = os.path.dirname(os.getcwd())
+            self.text_data_path = os.path.join(previous_location, 'text')
+        else:
+            self.text_data_path = text_data_path
+
+        self.text_file_list = os.listdir(self.text_data_path)
+        self.mode = mode
+        self.API_KEY = input('API: ')
+        self.tester = Tester(self.API_KEY, self.mode)
+        self.tester.set_text_path(self.text_data_path)
+
+    def __call__(self):
+
+        for i in (1, 10, 100):
+            save_path = os.path.join(os.getcwd(), str(i))
+            if not os.path.isdir(save_path):
+                os.mkdir(save_path)
+            self.tester.set_save_path(save_path)
+            print('Data Quantity : {}'.format(i))
+            for j in range(i):
+                if j == 0:
+                    print('processing...\n')
+                self.tester.convert(self.text_file_list[j])
+
 
 

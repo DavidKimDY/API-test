@@ -34,8 +34,8 @@
 			"name": "성균관",
 			"type": "ORGANIZATION",
 			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Sungkyunkwan_University",
-				"mid": "/m/03d41x"
+				"mid": "/m/03d41x",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Sungkyunkwan_University"
 			},
 			"salience": 0.10487653,
 			"mentions": [

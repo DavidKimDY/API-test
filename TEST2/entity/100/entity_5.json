@@ -19,8 +19,8 @@
 			"name": "로맨틱 코미디",
 			"type": "WORK_OF_ART",
 			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Romantic_comedy",
-				"mid": "/m/06cvj"
+				"mid": "/m/06cvj",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Romantic_comedy"
 			},
 			"salience": 0.123445205,
 			"mentions": [

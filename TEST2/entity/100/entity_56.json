@@ -66,7 +66,10 @@
 		{
 			"name": "정우",
 			"type": "PERSON",
-			"metadata": {},
+			"metadata": {
+				"mid": "/m/0w7p4sg",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Jung_Woo"
+			},
 			"salience": 0.04202626,
 			"mentions": [
 				{

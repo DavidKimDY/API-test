@@ -48,10 +48,7 @@
 		{
 			"name": "CK",
 			"type": "ORGANIZATION",
-			"metadata": {
-				"wikipedia_url": "https://en.wikipedia.org/wiki/Calvin_Klein_(company)",
-				"mid": "/m/02r33n4"
-			},
+			"metadata": {},
 			"salience": 0.057337947,
 			"mentions": [
 				{
