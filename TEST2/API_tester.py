@@ -5,7 +5,7 @@ import requests
 
 class Tester():
     def __init__(self, api_key, mode=None):
-        assert mode is not None, 'Tester.__init__ expected a key argument, one of [entity, morpheme, dependency]'
+        assert mode is not None, 'Tester.__init__ expected a \'mode\' argument, one of [entity, morpheme, dependency]'
         assert mode in ['entity', 'morpheme', 'dependency'], 'one of [entity, morpheme, dependency], not {}'.format(mode)
         self.morpheme_url = 'https://api.x.core.today/a75a68b0b-f859-4bfa-a487-fa12f1a0bb4a/'
         self.entity_url = 'http://api.x.core.today/ab7eb939d-9d08-41cc-be2f-226065331e7d/'
@@ -44,7 +44,7 @@ class Tester():
         url = self.url_dict[self.mode]
         self._convert_and_save(text_file, url)
 
-    def set_text_path(self, load_path):
+    def set_load_path(self, load_path):
         self.load_path = load_path
 
     def set_save_path(self, save_path):
@@ -78,7 +78,7 @@ class Test():
         self.mode = mode
         self.API_KEY = input('API: ')
         self.tester = Tester(self.API_KEY, self.mode)
-        self.tester.set_text_path(self.text_data_path)
+        self.tester.set_load_path(self.text_data_path)
 
     def __call__(self):
 
