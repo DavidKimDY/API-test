@@ -1,0 +1,335 @@
+{
+	"entities": [
+		{
+			"name": "허허실실",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.075929746,
+			"mentions": [
+				{
+					"text": {
+						"content": "허허실실",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "정훈",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06867241,
+			"mentions": [
+				{
+					"text": {
+						"content": "정훈",
+						"beginOffset": 302
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "테이블 데스",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.064069584,
+			"mentions": [
+				{
+					"text": {
+						"content": "테이블 데스",
+						"beginOffset": 393
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "수재",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.061149377,
+			"mentions": [
+				{
+					"text": {
+						"content": "수재",
+						"beginOffset": 376
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "학창",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.04606202,
+			"mentions": [
+				{
+					"text": {
+						"content": "학창",
+						"beginOffset": 329
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "전공",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.045499798,
+			"mentions": [
+				{
+					"text": {
+						"content": "전공",
+						"beginOffset": 434
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "경험",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04532448,
+			"mentions": [
+				{
+					"text": {
+						"content": "경험",
+						"beginOffset": 235
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "학술",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04532448,
+			"mentions": [
+				{
+					"text": {
+						"content": "학술",
+						"beginOffset": 215
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인상",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.045319237,
+			"mentions": [
+				{
+					"text": {
+						"content": "인상",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.045319237,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 28
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "옆집",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.045319237,
+			"mentions": [
+				{
+					"text": {
+						"content": "옆집",
+						"beginOffset": 42
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "경험",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04143292,
+			"mentions": [
+				{
+					"text": {
+						"content": "경험",
+						"beginOffset": 410
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수술방",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04022624,
+			"mentions": [
+				{
+					"text": {
+						"content": "수술방",
+						"beginOffset": 74
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "대학",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.04018565,
+			"mentions": [
+				{
+					"text": {
+						"content": "대학",
+						"beginOffset": 312
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "지식",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039521128,
+			"mentions": [
+				{
+					"text": {
+						"content": "지식",
+						"beginOffset": 225
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "병원장",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.039165393,
+			"mentions": [
+				{
+					"text": {
+						"content": "병원장",
+						"beginOffset": 261
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "논쟁",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039165393,
+			"mentions": [
+				{
+					"text": {
+						"content": "논쟁",
+						"beginOffset": 248
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "카리스마",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03867927,
+			"mentions": [
+				{
+					"text": {
+						"content": "카리스마",
+						"beginOffset": 142
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "집도의",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.038113292,
+			"mentions": [
+				{
+					"text": {
+						"content": "집도의",
+						"beginOffset": 182
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수석 자리",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03471958,
+			"mentions": [
+				{
+					"text": {
+						"content": "수석 자리",
+						"beginOffset": 342
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "판단",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.031553496,
+			"mentions": [
+				{
+					"text": {
+						"content": "판단",
+						"beginOffset": 106
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "직관",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.02924805,
+			"mentions": [
+				{
+					"text": {
+						"content": "직관",
+						"beginOffset": 129
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

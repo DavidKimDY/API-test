@@ -1,0 +1,50 @@
+{
+	"entities": [
+		{
+			"name": "능력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.3549175,
+			"mentions": [
+				{
+					"text": {
+						"content": "능력",
+						"beginOffset": 23
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인물",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.35080385,
+			"mentions": [
+				{
+					"text": {
+						"content": "인물",
+						"beginOffset": 50
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "미래",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.29427865,
+			"mentions": [
+				{
+					"text": {
+						"content": "미래",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

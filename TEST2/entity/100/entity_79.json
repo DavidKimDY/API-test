@@ -1,0 +1,157 @@
+{
+	"entities": [
+		{
+			"name": "민익",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.179258,
+			"mentions": [
+				{
+					"text": {
+						"content": "민익",
+						"beginOffset": 27
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "민익",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.15937154,
+			"mentions": [
+				{
+					"text": {
+						"content": "민익",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "민익",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.14697593,
+			"mentions": [
+				{
+					"text": {
+						"content": "민익",
+						"beginOffset": 90
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "장본인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.102111496,
+			"mentions": [
+				{
+					"text": {
+						"content": "장본인",
+						"beginOffset": 79
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "안면실인증",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09914562,
+			"mentions": [
+				{
+					"text": {
+						"content": "안면실인증",
+						"beginOffset": 43
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "진단",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0891338,
+			"mentions": [
+				{
+					"text": {
+						"content": "진단",
+						"beginOffset": 62
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "뇌동맥류",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08053998,
+			"mentions": [
+				{
+					"text": {
+						"content": "뇌동맥류",
+						"beginOffset": 122
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수술",
+			"type": "EVENT",
+			"metadata": {},
+			"salience": 0.0748141,
+			"mentions": [
+				{
+					"text": {
+						"content": "수술",
+						"beginOffset": 135
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "주치의",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06864954,
+			"mentions": [
+				{
+					"text": {
+						"content": "주치의",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "일곱",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "7"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "일곱",
+						"beginOffset": 100
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

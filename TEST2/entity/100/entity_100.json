@@ -1,0 +1,50 @@
+{
+	"entities": [
+		{
+			"name": "친분",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.375783,
+			"mentions": [
+				{
+					"text": {
+						"content": "친분",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "강삼도행장",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.32602295,
+			"mentions": [
+				{
+					"text": {
+						"content": "강삼도 행장",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "감사",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.29819405,
+			"mentions": [
+				{
+					"text": {
+						"content": "감사",
+						"beginOffset": 38
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

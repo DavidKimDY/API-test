@@ -1,0 +1,80 @@
+{
+	"entities": [
+		{
+			"name": "골패",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.22295138,
+			"mentions": [
+				{
+					"text": {
+						"content": "골패",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "고수",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.22295138,
+			"mentions": [
+				{
+					"text": {
+						"content": "고수",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "골패",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.19690429,
+			"mentions": [
+				{
+					"text": {
+						"content": "골패",
+						"beginOffset": 25
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "고수",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.18428937,
+			"mentions": [
+				{
+					"text": {
+						"content": "고수",
+						"beginOffset": 35
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "복수심",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.17290357,
+			"mentions": [
+				{
+					"text": {
+						"content": "복수심",
+						"beginOffset": 66
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

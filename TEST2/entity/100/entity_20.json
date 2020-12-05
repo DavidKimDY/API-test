@@ -1,0 +1,110 @@
+{
+	"entities": [
+		{
+			"name": "필",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.23276298,
+			"mentions": [
+				{
+					"text": {
+						"content": "필",
+						"beginOffset": 90
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "부잣집",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.1360702,
+			"mentions": [
+				{
+					"text": {
+						"content": "부잣집",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "외동딸",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.1360702,
+			"mentions": [
+				{
+					"text": {
+						"content": "외동딸",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사랑",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.13365358,
+			"mentions": [
+				{
+					"text": {
+						"content": "사랑",
+						"beginOffset": 54
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "세계",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.12525985,
+			"mentions": [
+				{
+					"text": {
+						"content": "세계",
+						"beginOffset": 121
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "조건",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12234196,
+			"mentions": [
+				{
+					"text": {
+						"content": "조건",
+						"beginOffset": 77
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인물",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.11384121,
+			"mentions": [
+				{
+					"text": {
+						"content": "인물",
+						"beginOffset": 157
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

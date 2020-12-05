@@ -1,0 +1,203 @@
+{
+	"entities": [
+		{
+			"name": "심술 만단",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.10931908,
+			"mentions": [
+				{
+					"text": {
+						"content": "심술 만단",
+						"beginOffset": 30
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "하인수",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.107072674,
+			"mentions": [
+				{
+					"text": {
+						"content": "하인수",
+						"beginOffset": 186
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "성균관",
+			"type": "ORGANIZATION",
+			"metadata": {
+				"mid": "/m/06jbt6",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Sungkyunkwan"
+			},
+			"salience": 0.10487653,
+			"mentions": [
+				{
+					"text": {
+						"content": "성균관",
+						"beginOffset": 122
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "아부 천단",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.09327728,
+			"mentions": [
+				{
+					"text": {
+						"content": "아부 천단",
+						"beginOffset": 15
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "오른팔",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08857121,
+			"mentions": [
+				{
+					"text": {
+						"content": "오른팔",
+						"beginOffset": 199
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "눈치 백단",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.073578134,
+			"mentions": [
+				{
+					"text": {
+						"content": "눈치 백단",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "경지",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06695164,
+			"mentions": [
+				{
+					"text": {
+						"content": "경지",
+						"beginOffset": 47
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수학",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06306809,
+			"mentions": [
+				{
+					"text": {
+						"content": "수학",
+						"beginOffset": 132
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인맥",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06306809,
+			"mentions": [
+				{
+					"text": {
+						"content": "인맥",
+						"beginOffset": 149
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "학문",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06193796,
+			"mentions": [
+				{
+					"text": {
+						"content": "학문",
+						"beginOffset": 85
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "내공",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06193796,
+			"mentions": [
+				{
+					"text": {
+						"content": "내공",
+						"beginOffset": 62
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수발",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.058856126,
+			"mentions": [
+				{
+					"text": {
+						"content": "수발",
+						"beginOffset": 232
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "일",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.047485214,
+			"mentions": [
+				{
+					"text": {
+						"content": "일",
+						"beginOffset": 166
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

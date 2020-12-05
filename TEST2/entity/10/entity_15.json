@@ -1,0 +1,263 @@
+{
+	"entities": [
+		{
+			"name": "정구광",
+			"type": "OTHER",
+			"metadata": {
+				"mid": "/m/09515x",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Soft_tennis"
+			},
+			"salience": 0.10091766,
+			"mentions": [
+				{
+					"text": {
+						"content": "정구광",
+						"beginOffset": 24
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "딸",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.074920654,
+			"mentions": [
+				{
+					"text": {
+						"content": "딸",
+						"beginOffset": 37
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "세상",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.06452355,
+			"mentions": [
+				{
+					"text": {
+						"content": "세상",
+						"beginOffset": 42
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06239457,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 129
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "거상",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.061538536,
+			"mentions": [
+				{
+					"text": {
+						"content": "거상",
+						"beginOffset": 16
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "가락시장",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.061538536,
+			"mentions": [
+				{
+					"text": {
+						"content": "가락시장",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "세상",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.05847503,
+			"mentions": [
+				{
+					"text": {
+						"content": "세상",
+						"beginOffset": 252
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05847503,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 222
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "속정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.055319782,
+			"mentions": [
+				{
+					"text": {
+						"content": "속정",
+						"beginOffset": 205
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "존재",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05465788,
+			"mentions": [
+				{
+					"text": {
+						"content": "존재",
+						"beginOffset": 109
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "겉",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05341496,
+			"mentions": [
+				{
+					"text": {
+						"content": "겉",
+						"beginOffset": 173
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "단비",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05277021,
+			"mentions": [
+				{
+					"text": {
+						"content": "단비",
+						"beginOffset": 95
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "속",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051103838,
+			"mentions": [
+				{
+					"text": {
+						"content": "속",
+						"beginOffset": 242
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "우산",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051103838,
+			"mentions": [
+				{
+					"text": {
+						"content": "우산",
+						"beginOffset": 235
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "작물",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.050031755,
+			"mentions": [
+				{
+					"text": {
+						"content": "작물",
+						"beginOffset": 59
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "풍파",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04975429,
+			"mentions": [
+				{
+					"text": {
+						"content": "풍파",
+						"beginOffset": 262
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "이름",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039059877,
+			"mentions": [
+				{
+					"text": {
+						"content": "이름",
+						"beginOffset": 159
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

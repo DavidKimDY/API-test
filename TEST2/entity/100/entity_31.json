@@ -1,0 +1,200 @@
+{
+	"entities": [
+		{
+			"name": "아비",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.1299028,
+			"mentions": [
+				{
+					"text": {
+						"content": "아비",
+						"beginOffset": 30
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08646405,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 106
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "노비",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0856591,
+			"mentions": [
+				{
+					"text": {
+						"content": "노비",
+						"beginOffset": 40
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "벼슬",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07802589,
+			"mentions": [
+				{
+					"text": {
+						"content": "벼슬",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "참판",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07802589,
+			"mentions": [
+				{
+					"text": {
+						"content": "참판",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어미",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07350469,
+			"mentions": [
+				{
+					"text": {
+						"content": "어미",
+						"beginOffset": 53
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "서리",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07239705,
+			"mentions": [
+				{
+					"text": {
+						"content": "서리",
+						"beginOffset": 136
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "서자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06913098,
+			"mentions": [
+				{
+					"text": {
+						"content": "서자",
+						"beginOffset": 73
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사이",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06913098,
+			"mentions": [
+				{
+					"text": {
+						"content": "사이",
+						"beginOffset": 60
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "매화",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06806169,
+			"mentions": [
+				{
+					"text": {
+						"content": "매화",
+						"beginOffset": 177
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "설움",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06647635,
+			"mentions": [
+				{
+					"text": {
+						"content": "설움",
+						"beginOffset": 203
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "일지매",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.062360574,
+			"mentions": [
+				{
+					"text": {
+						"content": "일지매",
+						"beginOffset": 93
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "출세",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.060859974,
+			"mentions": [
+				{
+					"text": {
+						"content": "출세",
+						"beginOffset": 119
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

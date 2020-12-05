@@ -1,0 +1,188 @@
+{
+	"entities": [
+		{
+			"name": "궁복",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11970421,
+			"mentions": [
+				{
+					"text": {
+						"content": "궁복",
+						"beginOffset": 101
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "이도형",
+			"type": "PERSON",
+			"metadata": {
+				"wikipedia_url": "https://ja.wikipedia.org/wiki/李到炯",
+				"mid": "/m/0nbg3_j"
+			},
+			"salience": 0.114447854,
+			"mentions": [
+				{
+					"text": {
+						"content": "이도형",
+						"beginOffset": 157
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "궁복",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09458477,
+			"mentions": [
+				{
+					"text": {
+						"content": "궁복",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "서로",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09295547,
+			"mentions": [
+				{
+					"text": {
+						"content": "서로",
+						"beginOffset": 54
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "위기",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08352813,
+			"mentions": [
+				{
+					"text": {
+						"content": "위기",
+						"beginOffset": 111
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "궁복",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08130505,
+			"mentions": [
+				{
+					"text": {
+						"content": "궁복",
+						"beginOffset": 197
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "청해 출신",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.077154584,
+			"mentions": [
+				{
+					"text": {
+						"content": "청해 출신",
+						"beginOffset": 17
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "행동",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07469364,
+			"mentions": [
+				{
+					"text": {
+						"content": "행동",
+						"beginOffset": 131
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "평생",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0681949,
+			"mentions": [
+				{
+					"text": {
+						"content": "평생",
+						"beginOffset": 84
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수하",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06718509,
+			"mentions": [
+				{
+					"text": {
+						"content": "수하",
+						"beginOffset": 167
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "노예",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06718509,
+			"mentions": [
+				{
+					"text": {
+						"content": "노예",
+						"beginOffset": 217
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "정년",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05906121,
+			"mentions": [
+				{
+					"text": {
+						"content": "정년",
+						"beginOffset": 207
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

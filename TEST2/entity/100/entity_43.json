@@ -1,0 +1,170 @@
+{
+	"entities": [
+		{
+			"name": "유진",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.14896658,
+			"mentions": [
+				{
+					"text": {
+						"content": "유진",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "가정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.10224568,
+			"mentions": [
+				{
+					"text": {
+						"content": "가정",
+						"beginOffset": 28
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남편",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.094382,
+			"mentions": [
+				{
+					"text": {
+						"content": "남편",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09364337,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 133
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "맺힌",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.087227784,
+			"mentions": [
+				{
+					"text": {
+						"content": "맺힌",
+						"beginOffset": 52
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인상",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.085370205,
+			"mentions": [
+				{
+					"text": {
+						"content": "인상",
+						"beginOffset": 157
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "미남",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08327732,
+			"mentions": [
+				{
+					"text": {
+						"content": "미남",
+						"beginOffset": 97
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "환자들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07919693,
+			"mentions": [
+				{
+					"text": {
+						"content": "환자들",
+						"beginOffset": 196
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "긍정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07761879,
+			"mentions": [
+				{
+					"text": {
+						"content": "긍정",
+						"beginOffset": 70
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인기",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.0772098,
+			"mentions": [
+				{
+					"text": {
+						"content": "인기",
+						"beginOffset": 212
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07086154,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 83
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

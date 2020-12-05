@@ -1,0 +1,110 @@
+{
+	"entities": [
+		{
+			"name": "정훈",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.19107829,
+			"mentions": [
+				{
+					"text": {
+						"content": "정훈",
+						"beginOffset": 28
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "정훈",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.17071638,
+			"mentions": [
+				{
+					"text": {
+						"content": "정훈",
+						"beginOffset": 10
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "청아",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.15737155,
+			"mentions": [
+				{
+					"text": {
+						"content": "청아",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "집착",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12801585,
+			"mentions": [
+				{
+					"text": {
+						"content": "집착",
+						"beginOffset": 45
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "친구",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.12302935,
+			"mentions": [
+				{
+					"text": {
+						"content": "친구",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "극단",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.1173037,
+			"mentions": [
+				{
+					"text": {
+						"content": "극단",
+						"beginOffset": 65
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "성격",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11248487,
+			"mentions": [
+				{
+					"text": {
+						"content": "성격",
+						"beginOffset": 78
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

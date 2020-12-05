@@ -1,0 +1,200 @@
+{
+	"entities": [
+		{
+			"name": "모모족",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.100451685,
+			"mentions": [
+				{
+					"text": {
+						"content": "모모족",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "여인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.100451685,
+			"mentions": [
+				{
+					"text": {
+						"content": "여인",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사트닉",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09159393,
+			"mentions": [
+				{
+					"text": {
+						"content": "사트닉",
+						"beginOffset": 48
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "여인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08072267,
+			"mentions": [
+				{
+					"text": {
+						"content": "여인",
+						"beginOffset": 291
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "모모족",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08072267,
+			"mentions": [
+				{
+					"text": {
+						"content": "모모족",
+						"beginOffset": 278
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "방문자들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07899826,
+			"mentions": [
+				{
+					"text": {
+						"content": "방문자들",
+						"beginOffset": 183
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "몸",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07899826,
+			"mentions": [
+				{
+					"text": {
+						"content": "몸",
+						"beginOffset": 209
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자연환경",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07631107,
+			"mentions": [
+				{
+					"text": {
+						"content": "자연환경",
+						"beginOffset": 160
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사트닉",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.075768754,
+			"mentions": [
+				{
+					"text": {
+						"content": "사트닉",
+						"beginOffset": 21
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "강단",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.07304757,
+			"mentions": [
+				{
+					"text": {
+						"content": "강단",
+						"beginOffset": 244
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "주비놀",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07123524,
+			"mentions": [
+				{
+					"text": {
+						"content": "주비놀",
+						"beginOffset": 109
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "부인",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.04730704,
+			"mentions": [
+				{
+					"text": {
+						"content": "부인",
+						"beginOffset": 34
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "약속",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04439117,
+			"mentions": [
+				{
+					"text": {
+						"content": "약속",
+						"beginOffset": 64
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

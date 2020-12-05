@@ -1,0 +1,200 @@
+{
+	"entities": [
+		{
+			"name": "도박",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08564691,
+			"mentions": [
+				{
+					"text": {
+						"content": "도박",
+						"beginOffset": 147
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "도망자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08495362,
+			"mentions": [
+				{
+					"text": {
+						"content": "도망자",
+						"beginOffset": 191
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "흥행",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08451522,
+			"mentions": [
+				{
+					"text": {
+						"content": "흥행",
+						"beginOffset": 7
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.08451522,
+			"mentions": [
+				{
+					"text": {
+						"content": "남자",
+						"beginOffset": 37
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "애정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08383699,
+			"mentions": [
+				{
+					"text": {
+						"content": "애정",
+						"beginOffset": 209
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "애정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08045569,
+			"mentions": [
+				{
+					"text": {
+						"content": "애정",
+						"beginOffset": 299
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "가능성",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07625894,
+			"mentions": [
+				{
+					"text": {
+						"content": "가능성",
+						"beginOffset": 229
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "잠재",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07625894,
+			"mentions": [
+				{
+					"text": {
+						"content": "잠재",
+						"beginOffset": 219
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "신세",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.074740745,
+			"mentions": [
+				{
+					"text": {
+						"content": "신세",
+						"beginOffset": 201
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "안목",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07285613,
+			"mentions": [
+				{
+					"text": {
+						"content": "안목",
+						"beginOffset": 93
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아이템",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.069189556,
+			"mentions": [
+				{
+					"text": {
+						"content": "아이템",
+						"beginOffset": 67
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "보증 사기",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06881738,
+			"mentions": [
+				{
+					"text": {
+						"content": "보증 사기",
+						"beginOffset": 312
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "돈",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.057954658,
+			"mentions": [
+				{
+					"text": {
+						"content": "돈",
+						"beginOffset": 126
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

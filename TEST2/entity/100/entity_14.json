@@ -1,0 +1,83 @@
+{
+	"entities": [
+		{
+			"name": "귀남",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.25235343,
+			"mentions": [
+				{
+					"text": {
+						"content": "귀남",
+						"beginOffset": 36
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "대학",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.20045625,
+			"mentions": [
+				{
+					"text": {
+						"content": "대학",
+						"beginOffset": 46
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "미국",
+			"type": "LOCATION",
+			"metadata": {
+				"mid": "/m/09c7w0",
+				"wikipedia_url": "https://en.wikipedia.org/wiki/United_States"
+			},
+			"salience": 0.18752685,
+			"mentions": [
+				{
+					"text": {
+						"content": "미국",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "대학생활",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.18723984,
+			"mentions": [
+				{
+					"text": {
+						"content": "대학생활",
+						"beginOffset": 13
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "후배",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.17242363,
+			"mentions": [
+				{
+					"text": {
+						"content": "후배",
+						"beginOffset": 53
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

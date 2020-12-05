@@ -1,0 +1,140 @@
+{
+	"entities": [
+		{
+			"name": "가오",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.1548528,
+			"mentions": [
+				{
+					"text": {
+						"content": "가오",
+						"beginOffset": 168
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "모토싸이클 매니아",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.13055502,
+			"mentions": [
+				{
+					"text": {
+						"content": "모토싸이클 매니아",
+						"beginOffset": 51
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "테스토스테론",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12327647,
+			"mentions": [
+				{
+					"text": {
+						"content": "테스토스테론",
+						"beginOffset": 100
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "주먹질",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.11883036,
+			"mentions": [
+				{
+					"text": {
+						"content": "주먹질",
+						"beginOffset": 31
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "근육질",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.10935225,
+			"mentions": [
+				{
+					"text": {
+						"content": "근육질",
+						"beginOffset": 11
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "몸매",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.10935225,
+			"mentions": [
+				{
+					"text": {
+						"content": "몸매",
+						"beginOffset": 21
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "마초",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09346341,
+			"mentions": [
+				{
+					"text": {
+						"content": "마초",
+						"beginOffset": 233
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "강박",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09346341,
+			"mentions": [
+				{
+					"text": {
+						"content": "강박",
+						"beginOffset": 243
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "스타일",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06685402,
+			"mentions": [
+				{
+					"text": {
+						"content": "스타일",
+						"beginOffset": 261
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

@@ -1,0 +1,80 @@
+{
+	"entities": [
+		{
+			"name": "원성공주",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.2892899,
+			"mentions": [
+				{
+					"text": {
+						"content": "원성공주",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "환관",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.23058355,
+			"mentions": [
+				{
+					"text": {
+						"content": "환관",
+						"beginOffset": 16
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "간신",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.17846479,
+			"mentions": [
+				{
+					"text": {
+						"content": "간신",
+						"beginOffset": 37
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "충신",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.17328435,
+			"mentions": [
+				{
+					"text": {
+						"content": "충신",
+						"beginOffset": 24
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인물",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.12837742,
+			"mentions": [
+				{
+					"text": {
+						"content": "인물",
+						"beginOffset": 65
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

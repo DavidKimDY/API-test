@@ -1,0 +1,311 @@
+{
+	"entities": [
+		{
+			"name": "사장",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06832739,
+			"mentions": [
+				{
+					"text": {
+						"content": "사장",
+						"beginOffset": 64
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "해후",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06512028,
+			"mentions": [
+				{
+					"text": {
+						"content": "해후",
+						"beginOffset": 19
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "총무",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06512028,
+			"mentions": [
+				{
+					"text": {
+						"content": "총무",
+						"beginOffset": 29
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "스텝",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06512028,
+			"mentions": [
+				{
+					"text": {
+						"content": "스텝",
+						"beginOffset": 37
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "청소부",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06512028,
+			"mentions": [
+				{
+					"text": {
+						"content": "청소부",
+						"beginOffset": 45
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "게스트하우스",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.06512028,
+			"mentions": [
+				{
+					"text": {
+						"content": "게스트하우스",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사연",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06344123,
+			"mentions": [
+				{
+					"text": {
+						"content": "사연",
+						"beginOffset": 229
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "직군",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.059819277,
+			"mentions": [
+				{
+					"text": {
+						"content": "직군",
+						"beginOffset": 85
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "관심",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05740534,
+			"mentions": [
+				{
+					"text": {
+						"content": "관심",
+						"beginOffset": 269
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "이야기",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.057034764,
+			"mentions": [
+				{
+					"text": {
+						"content": "이야기",
+						"beginOffset": 301
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "내",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.057034764,
+			"mentions": [
+				{
+					"text": {
+						"content": "내",
+						"beginOffset": 297
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "빌딩",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.056339484,
+			"mentions": [
+				{
+					"text": {
+						"content": "빌딩",
+						"beginOffset": 187
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "올라운드 플레이어",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05572574,
+			"mentions": [
+				{
+					"text": {
+						"content": "올라운드 플레이어",
+						"beginOffset": 108
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "여행객들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.055395298,
+			"mentions": [
+				{
+					"text": {
+						"content": "여행객들",
+						"beginOffset": 243
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "속칭",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05492268,
+			"mentions": [
+				{
+					"text": {
+						"content": "속칭",
+						"beginOffset": 135
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "소설",
+			"type": "WORK_OF_ART",
+			"metadata": {},
+			"salience": 0.052431826,
+			"mentions": [
+				{
+					"text": {
+						"content": "소설",
+						"beginOffset": 177
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "오른팔",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.036520813,
+			"mentions": [
+				{
+					"text": {
+						"content": "오른팔",
+						"beginOffset": 419
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "백만",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "1000000"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "백만",
+						"beginOffset": 327
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		},
+		{
+			"name": "백만",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "1000000"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "백만",
+						"beginOffset": 379
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		},
+		{
+			"name": "백만",
+			"type": "NUMBER",
+			"metadata": {
+				"value": "1000000"
+			},
+			"salience": 0,
+			"mentions": [
+				{
+					"text": {
+						"content": "백만",
+						"beginOffset": 409
+					},
+					"type": "TYPE_UNKNOWN"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

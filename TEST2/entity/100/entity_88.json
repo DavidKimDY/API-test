@@ -1,0 +1,140 @@
+{
+	"entities": [
+		{
+			"name": "저스티스",
+			"type": "WORK_OF_ART",
+			"metadata": {},
+			"salience": 0.16302337,
+			"mentions": [
+				{
+					"text": {
+						"content": "저스티스",
+						"beginOffset": 58
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "사회",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.13657822,
+			"mentions": [
+				{
+					"text": {
+						"content": "사회",
+						"beginOffset": 24
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "치안",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12840839,
+			"mentions": [
+				{
+					"text": {
+						"content": "치안",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "초능력자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.1149573,
+			"mentions": [
+				{
+					"text": {
+						"content": "초능력자",
+						"beginOffset": 92
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "초능력자들",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.10664332,
+			"mentions": [
+				{
+					"text": {
+						"content": "초능력자들",
+						"beginOffset": 156
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "경찰력",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.102648176,
+			"mentions": [
+				{
+					"text": {
+						"content": "경찰력",
+						"beginOffset": 75
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "주식회사",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.09938264,
+			"mentions": [
+				{
+					"text": {
+						"content": "주식회사",
+						"beginOffset": 44
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "이야기",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.094126925,
+			"mentions": [
+				{
+					"text": {
+						"content": "이야기",
+						"beginOffset": 175
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "도시",
+			"type": "LOCATION",
+			"metadata": {},
+			"salience": 0.054231666,
+			"mentions": [
+				{
+					"text": {
+						"content": "도시",
+						"beginOffset": 136
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

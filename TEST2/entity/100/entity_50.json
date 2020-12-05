@@ -1,0 +1,95 @@
+{
+	"entities": [
+		{
+			"name": "JBC 보도국",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.263977,
+			"mentions": [
+				{
+					"text": {
+						"content": "JBC 보도국",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "앵커",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.1767234,
+			"mentions": [
+				{
+					"text": {
+						"content": "앵커",
+						"beginOffset": 14
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "말투",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.16454923,
+			"mentions": [
+				{
+					"text": {
+						"content": "말투",
+						"beginOffset": 22
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "행동",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.1549187,
+			"mentions": [
+				{
+					"text": {
+						"content": "행동",
+						"beginOffset": 32
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "직설",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.12595345,
+			"mentions": [
+				{
+					"text": {
+						"content": "직설",
+						"beginOffset": 58
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사람",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.11387821,
+			"mentions": [
+				{
+					"text": {
+						"content": "사람",
+						"beginOffset": 113
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

@@ -1,0 +1,185 @@
+{
+	"entities": [
+		{
+			"name": "악녀",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.107170604,
+			"mentions": [
+				{
+					"text": {
+						"content": "악녀",
+						"beginOffset": 27
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "외모",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.09305002,
+			"mentions": [
+				{
+					"text": {
+						"content": "외모",
+						"beginOffset": 45
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "외모",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.091129616,
+			"mentions": [
+				{
+					"text": {
+						"content": "외모",
+						"beginOffset": 135
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "반전",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.08895338,
+			"mentions": [
+				{
+					"text": {
+						"content": "반전",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "고품격",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.082126945,
+			"mentions": [
+				{
+					"text": {
+						"content": "고품격",
+						"beginOffset": 35
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "백치미",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07943678,
+			"mentions": [
+				{
+					"text": {
+						"content": "백치미",
+						"beginOffset": 88
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "종결자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07943678,
+			"mentions": [
+				{
+					"text": {
+						"content": "종결자",
+						"beginOffset": 98
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "두뇌",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07943678,
+			"mentions": [
+				{
+					"text": {
+						"content": "두뇌",
+						"beginOffset": 78
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "장인정신",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.077706665,
+			"mentions": [
+				{
+					"text": {
+						"content": "장인정신",
+						"beginOffset": 109
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "차원",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07448058,
+			"mentions": [
+				{
+					"text": {
+						"content": "차원",
+						"beginOffset": 143
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "변신",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07448058,
+			"mentions": [
+				{
+					"text": {
+						"content": "변신",
+						"beginOffset": 160
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "귀재",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.07259128,
+			"mentions": [
+				{
+					"text": {
+						"content": "귀재",
+						"beginOffset": 170
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

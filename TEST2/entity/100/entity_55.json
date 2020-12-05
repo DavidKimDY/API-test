@@ -1,0 +1,365 @@
+{
+	"entities": [
+		{
+			"name": "나이스",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.06776921,
+			"mentions": [
+				{
+					"text": {
+						"content": "나이스",
+						"beginOffset": 131
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "인영",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05936105,
+			"mentions": [
+				{
+					"text": {
+						"content": "인영",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인영",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.054472424,
+			"mentions": [
+				{
+					"text": {
+						"content": "인영",
+						"beginOffset": 310
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인생",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051780004,
+			"mentions": [
+				{
+					"text": {
+						"content": "인생",
+						"beginOffset": 220
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인영",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.048339225,
+			"mentions": [
+				{
+					"text": {
+						"content": "인영",
+						"beginOffset": 377
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "마디",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.044990852,
+			"mentions": [
+				{
+					"text": {
+						"content": "마디",
+						"beginOffset": 121
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "초등학교",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.044111926,
+			"mentions": [
+				{
+					"text": {
+						"content": "초등학교",
+						"beginOffset": 10
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어머니",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.043726757,
+			"mentions": [
+				{
+					"text": {
+						"content": "어머니",
+						"beginOffset": 240
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "공부",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.042272933,
+			"mentions": [
+				{
+					"text": {
+						"content": "공부",
+						"beginOffset": 97
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "성격",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.040410638,
+			"mentions": [
+				{
+					"text": {
+						"content": "성격",
+						"beginOffset": 80
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "편집광",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039460197,
+			"mentions": [
+				{
+					"text": {
+						"content": "편집광",
+						"beginOffset": 253
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "괴로움",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039460197,
+			"mentions": [
+				{
+					"text": {
+						"content": "괴로움",
+						"beginOffset": 283
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "애정",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.039460197,
+			"mentions": [
+				{
+					"text": {
+						"content": "애정",
+						"beginOffset": 266
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "기준",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.038394522,
+			"mentions": [
+				{
+					"text": {
+						"content": "기준",
+						"beginOffset": 169
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "어머니",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.037362143,
+			"mentions": [
+				{
+					"text": {
+						"content": "어머니",
+						"beginOffset": 57
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "삼대",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03700959,
+			"mentions": [
+				{
+					"text": {
+						"content": "삼대",
+						"beginOffset": 152
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "거짓말",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.036332406,
+			"mentions": [
+				{
+					"text": {
+						"content": "거짓말",
+						"beginOffset": 364
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "사랑",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.036332406,
+			"mentions": [
+				{
+					"text": {
+						"content": "사랑",
+						"beginOffset": 327
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "목표",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.035997603,
+			"mentions": [
+				{
+					"text": {
+						"content": "목표",
+						"beginOffset": 230
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "독자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.035008274,
+			"mentions": [
+				{
+					"text": {
+						"content": "독자",
+						"beginOffset": 159
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "손",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03436119,
+			"mentions": [
+				{
+					"text": {
+						"content": "손",
+						"beginOffset": 199
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아버지",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.03236331,
+			"mentions": [
+				{
+					"text": {
+						"content": "아버지",
+						"beginOffset": 47
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "동창",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.031688843,
+			"mentions": [
+				{
+					"text": {
+						"content": "동창",
+						"beginOffset": 23
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "결혼",
+			"type": "EVENT",
+			"metadata": {},
+			"salience": 0.029534103,
+			"mentions": [
+				{
+					"text": {
+						"content": "결혼",
+						"beginOffset": 390
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

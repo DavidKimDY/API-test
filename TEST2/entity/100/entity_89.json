@@ -1,0 +1,230 @@
+{
+	"entities": [
+		{
+			"name": "기범",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.10299716,
+			"mentions": [
+				{
+					"text": {
+						"content": "기범",
+						"beginOffset": 203
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "기범",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.098256215,
+			"mentions": [
+				{
+					"text": {
+						"content": "기범",
+						"beginOffset": 96
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "호시탐탐",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.09072368,
+			"mentions": [
+				{
+					"text": {
+						"content": "호시탐탐",
+						"beginOffset": 130
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "돈",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.075553164,
+			"mentions": [
+				{
+					"text": {
+						"content": "돈",
+						"beginOffset": 57
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "일",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.074381314,
+			"mentions": [
+				{
+					"text": {
+						"content": "일",
+						"beginOffset": 71
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "인물",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.074381314,
+			"mentions": [
+				{
+					"text": {
+						"content": "인물",
+						"beginOffset": 47
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "약자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06120361,
+			"mentions": [
+				{
+					"text": {
+						"content": "약자",
+						"beginOffset": 20
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "강자",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.06120361,
+			"mentions": [
+				{
+					"text": {
+						"content": "강자",
+						"beginOffset": 0
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "노릇",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05979011,
+			"mentions": [
+				{
+					"text": {
+						"content": "노릇",
+						"beginOffset": 113
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "최종 목표",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05828664,
+			"mentions": [
+				{
+					"text": {
+						"content": "최종 목표",
+						"beginOffset": 186
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "수족",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05440989,
+			"mentions": [
+				{
+					"text": {
+						"content": "수족",
+						"beginOffset": 106
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "태수",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.05393887,
+			"mentions": [
+				{
+					"text": {
+						"content": "태수",
+						"beginOffset": 143
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "백회장",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.051628996,
+			"mentions": [
+				{
+					"text": {
+						"content": "백회장",
+						"beginOffset": 223
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "충심 왕국",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.051628996,
+			"mentions": [
+				{
+					"text": {
+						"content": "충심 왕국",
+						"beginOffset": 249
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "기회",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.03161643,
+			"mentions": [
+				{
+					"text": {
+						"content": "기회",
+						"beginOffset": 163
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

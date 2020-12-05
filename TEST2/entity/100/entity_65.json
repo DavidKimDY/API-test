@@ -1,0 +1,35 @@
+{
+	"entities": [
+		{
+			"name": "한신 병원",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.57122624,
+			"mentions": [
+				{
+					"text": {
+						"content": "한신 병원",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "레지던트",
+			"type": "ORGANIZATION",
+			"metadata": {},
+			"salience": 0.42877376,
+			"mentions": [
+				{
+					"text": {
+						"content": "레지던트",
+						"beginOffset": 14
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

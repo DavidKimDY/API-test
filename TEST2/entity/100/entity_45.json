@@ -1,0 +1,38 @@
+{
+	"entities": [
+		{
+			"name": "서울 법대",
+			"type": "ORGANIZATION",
+			"metadata": {
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Seoul_National_University_Law_School",
+				"mid": "/m/0nbdlpv"
+			},
+			"salience": 0.57122624,
+			"mentions": [
+				{
+					"text": {
+						"content": "서울 법대",
+						"beginOffset": 0
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "졸업",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.42877376,
+			"mentions": [
+				{
+					"text": {
+						"content": "졸업",
+						"beginOffset": 14
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}

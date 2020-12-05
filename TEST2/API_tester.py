@@ -22,7 +22,7 @@ class Tester():
         self.header = {'api-key': self.__api_key}
         self.params = {'text': ''}
 
-    def _convert_and_save(self, text_file: str, url):
+    def _convert_and_save(self, text_file, url):
         path = os.path.join(self.load_path, text_file)
         print(text_file)
         assert os.path.isfile(path), 'Not found file : {} in {}'.format(text_file, path)
@@ -40,7 +40,7 @@ class Tester():
 
         self.save(json_data, text_file)
 
-    def convert(self, text_file: str):
+    def convert(self, text_file):
         url = self.url_dict[self.mode]
         self._convert_and_save(text_file, url)
 
@@ -61,7 +61,7 @@ class Tester():
         with open(save_file_path, 'w', encoding='utf-8') as f:
             json.dump(json_data, f, ensure_ascii=False, indent='\t')
 
-    def get_file_name(self, text_file: str):
+    def get_file_name(self, text_file):
         name = text_file.split('.')[0]
         return name
 
@@ -74,16 +74,17 @@ class Test():
         else:
             self.text_data_path = text_data_path
 
-        self.text_file_list = os.listdir(self.text_data_path)
+        self.text_file_list = [int(file_name.replace('.txt', '')) for file_name in os.listdir(self.text_data_path)]
+        self.text_file_list = [str(file_name)+'.txt' for file_name in sorted(self.text_file_list)]
         self.mode = mode
-        self.API_KEY = input('API: ')
+        self.API_KEY = input('{} API: '.format(mode))
         self.tester = Tester(self.API_KEY, self.mode)
         self.tester.set_load_path(self.text_data_path)
 
     def __call__(self):
 
         for i in (1, 10, 100):
-            save_path = os.path.join(os.getcwd(), str(i))
+            save_path = os.path.join(os.getcwd(), self.mode, str(i))
             if not os.path.isdir(save_path):
                 os.mkdir(save_path)
             self.tester.set_save_path(save_path)
@@ -92,6 +93,4 @@ class Test():
                 if j == 0:
                     print('processing...\n')
                 self.tester.convert(self.text_file_list[j])
-
-
 

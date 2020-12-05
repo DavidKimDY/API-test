@@ -1,0 +1,248 @@
+{
+	"entities": [
+		{
+			"name": "캐나다",
+			"type": "LOCATION",
+			"metadata": {
+				"wikipedia_url": "https://en.wikipedia.org/wiki/Canada",
+				"mid": "/m/0d060g"
+			},
+			"salience": 0.11088887,
+			"mentions": [
+				{
+					"text": {
+						"content": "캐나다",
+						"beginOffset": 74
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "괜찮아, 괜찮아",
+			"type": "WORK_OF_ART",
+			"metadata": {},
+			"salience": 0.09711079,
+			"mentions": [
+				{
+					"text": {
+						"content": "괜찮아, 괜찮아",
+						"beginOffset": 135
+					},
+					"type": "PROPER"
+				}
+			]
+		},
+		{
+			"name": "아내",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07323323,
+			"mentions": [
+				{
+					"text": {
+						"content": "아내",
+						"beginOffset": 64
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남매",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.07129355,
+			"mentions": [
+				{
+					"text": {
+						"content": "남매",
+						"beginOffset": 54
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "한의사",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.06686582,
+			"mentions": [
+				{
+					"text": {
+						"content": "한의사",
+						"beginOffset": 121
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "아내",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.066545136,
+			"mentions": [
+				{
+					"text": {
+						"content": "아내",
+						"beginOffset": 30
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "뜻",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.057085227,
+			"mentions": [
+				{
+					"text": {
+						"content": "뜻",
+						"beginOffset": 40
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "입",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.05622676,
+			"mentions": [
+				{
+					"text": {
+						"content": "입",
+						"beginOffset": 162
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "낙천가",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.053390067,
+			"mentions": [
+				{
+					"text": {
+						"content": "낙천가",
+						"beginOffset": 192
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "가슴",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.053390067,
+			"mentions": [
+				{
+					"text": {
+						"content": "가슴",
+						"beginOffset": 205
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "남자",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.053390067,
+			"mentions": [
+				{
+					"text": {
+						"content": "남자",
+						"beginOffset": 222
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "얼굴",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04862977,
+			"mentions": [
+				{
+					"text": {
+						"content": "얼굴",
+						"beginOffset": 241
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "농담",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04862977,
+			"mentions": [
+				{
+					"text": {
+						"content": "농담",
+						"beginOffset": 261
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "취미",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.04862977,
+			"mentions": [
+				{
+					"text": {
+						"content": "취미",
+						"beginOffset": 271
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "자칭",
+			"type": "OTHER",
+			"metadata": {},
+			"salience": 0.047345556,
+			"mentions": [
+				{
+					"text": {
+						"content": "자칭",
+						"beginOffset": 279
+					},
+					"type": "COMMON"
+				}
+			]
+		},
+		{
+			"name": "애주가",
+			"type": "PERSON",
+			"metadata": {},
+			"salience": 0.047345556,
+			"mentions": [
+				{
+					"text": {
+						"content": "애주가",
+						"beginOffset": 296
+					},
+					"type": "COMMON"
+				}
+			]
+		}
+	],
+	"language": "ko"
+}
