@@ -1,0 +1,8 @@
+1. 명령 프롬트에 python3를 입력한다
+2. 없다면 microsoft store가 뜰 것이다. 그럼 설치해준다
+3. python3 --version 을 입력해서 설치를 확인한다.
+4. 확인이 되었다면 setting.zip 파일을 다운로드 받고 압축을 풀어준다.
+5. 압축을 풀고 get_pip.py를 먼저 실행시켜준다.
+6. 명령 프롬트에 pip3 --version 을 검색한다. pip 20.3.1을 확인한다. 만약  command not found: pip3를 발견하면 문제가 된다.
+7. setting.py를 실행시킨다 - requests를 설치하기 위함
+8. 명형 프롬트에서 python3 -c import requests" 를 입력한다. 아무일도 일어나지 않으면 성공이다.

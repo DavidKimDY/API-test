@@ -73,10 +73,17 @@ class Test():
             self.text_data_path = os.path.join(previous_location, 'text')
         else:
             self.text_data_path = text_data_path
+        base_url = 'https://core.today/api/market/product/key/'
+        API_url_dict = {
+            'entity': 'ab7eb939d-9d08-41cc-be2f-226065331e7d',
+            'morpheme': 'a75a68b0b-f859-4bfa-a487-fa12f1a0bb4a',
+            'dependency': 'aca29268b-b75d-4009-8db5-22d756a5d36b'
+        }
 
         self.text_file_list = [int(file_name.replace('.txt', '')) for file_name in os.listdir(self.text_data_path)]
         self.text_file_list = [str(file_name)+'.txt' for file_name in sorted(self.text_file_list)]
         self.mode = mode
+        print('Visit to get API key : ', base_url + API_url_dict[mode])
         self.API_KEY = input('{} API: '.format(mode))
         self.tester = Tester(self.API_KEY, self.mode)
         self.tester.set_load_path(self.text_data_path)

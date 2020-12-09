@@ -1,0 +1,35 @@
+import os
+import datetime
+from time import sleep
+
+# make a directory to store timestamped-folder
+if not os.path.isdir('test'):
+    os.mkdir('test')
+
+# get current path of this notebook, '/home/ubuntu/work'
+current_path = os.getcwd()
+# set save path. It will be saved in, '/home/ubuntu/work/test'
+save_path = os.path.join(current_path, 'test')
+
+# test will be going for 1 day.
+time = datetime.datetime.now()
+end = time + datetime.timedelta(days=1)
+pre_minute = time.minute
+
+while time < end:
+    minute = time.minute
+    if pre_minute - minute != 0:
+        mkdir_path = os.path.join(save_path, time.strftime('%H_%M'))
+        os.mkdir(mkdir_path)
+        pre_minute = minute
+    sleep(10)
+    time = datetime.datetime.now()
+
+
+target_amount = 24 * 60
+folder_amount = len(os.listdir('test'))
+ability_rate = folder_amount/target_amount * 100
+
+print('expected_amount : {} (24h * 60m)\ngeratred_amount : {}'.format(target_amount, folder_amount))
+print(f'Rate of Ability : {ability_rate} (%)')
+print('Success!')
