@@ -9,7 +9,7 @@ def json_validation(path, test):
     log = ''
     for file in filelist:
         file = os.path.join(path, file)
-        with open(file, "r") as f:
+        with open(file, "rt", encoding='utf-8') as f:
             data = f.read()
         try:
             json.loads(data)
