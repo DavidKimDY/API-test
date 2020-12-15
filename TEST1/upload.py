@@ -27,7 +27,7 @@ def upload(number, i):
     if number < 4:
         upload_path = f'{number}/to_upload/{filename}'
     else:
-        sub_dir = (number - 1) // 10000 + 1
+        sub_dir = (i - 1) // 10000 + 1
         upload_path = f'{number}/to_upload/{sub_dir}/{filename}'
 
     upload_file(upload_path, filename)
